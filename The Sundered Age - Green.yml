@@ -1,0 +1,346 @@
+Name: Sprouting Renewal
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {G}
+Card Text: Put a +1/+1 counter on target creature you control. You gain 1 life.
+Flavor Text: "Even in desolation, life finds a way to thrive."
+
+Name: Savage Scavenger
+Rarity: Common
+Card Type: Creature — Human Warrior
+Mana Cost: {1}{G}
+Card Text: When Savage Scavenger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Power/Toughness: 1/1
+Flavor Text: "They are resourceful, adapting to survive in a shattered world."
+
+Name: Resilient Seedling
+Rarity: Uncommon
+Card Type: Creature — Plant
+Mana Cost: {1}{G}
+Card Text: {2}{G}: Regenerate Resilient Seedling.
+Power/Toughness: 0/3
+Flavor Text: "The enduring spirit of life persists, even among the ruins."
+
+Name: Primal Growth
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{G}
+Card Text: Target creature gets +3/+3 until end of turn.
+Flavor Text: "In the wilds, strength is essential for survival."
+
+Name: Verdant Reclaimer
+Rarity: Rare
+Card Type: Creature — Elf Druid
+Mana Cost: {2}{G}
+Card Text: {T}: Add {G} for each creature card in your graveyard.
+Power/Toughness: 1/3
+Flavor Text: "The cycle of life and death nourishes the earth."
+
+Name: Seedling of Hope
+Rarity: Uncommon
+Card Type: Creature — Plant
+Mana Cost: {3}{G}
+Card Text: When Seedling of Hope enters the battlefield, create two 1/1 green Saproling creature tokens.
+Power/Toughness: 2/2
+Flavor Text: "Nature's resilience blossoms in the face of adversity."
+
+Name: Sheltered Glade
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {G}. {2}{G}, {T}: Put a +1/+1 counter on target creature you control.
+Flavor Text: "A haven of growth amid a world of ruins."
+
+Name: Feral Instinct
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{G}
+Card Text: Target creature you control gets +2/+2 and gains hexproof until end of turn.
+Flavor Text: "The wild's primal essence endures, unbroken by the sundering."
+
+Name: Vigorous Rebirth
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {4}{G}
+Card Text: Return target creature card from your graveyard to the battlefield. It gains haste until end of turn.
+Flavor Text: "Life's cycle is unrelenting, even in the face of destruction."
+
+Name: Ruinborn Hydra
+Rarity: Mythic Rare
+Card Type: Creature — Hydra
+Mana Cost: {X}{G}{G}
+Card Text: Ruinborn Hydra enters the battlefield with X +1/+1 counters on it. Whenever a land enters the battlefield under your control, put a +1/+1 counter on Ruinborn Hydra.
+Power/Toughness: 0/0
+Flavor Text: "The sundered world's devastation only fuels its insatiable hunger."
+
+Name: Reclaiming Dryad
+Rarity: Uncommon
+Card Type: Creature — Dryad
+Mana Cost: {2}{G}
+Card Text: Whenever a land enters the battlefield under your control, you gain 1 life.
+Power/Toughness: 2/2
+Flavor Text: "They nurture the land, restoring life to the desolate earth."
+
+Name: Spirit of the Wilds
+Rarity: Common
+Card Type: Creature — Elemental
+Mana Cost: {3}{G}
+Card Text: Trample
+Power/Toughness: 4/2
+Flavor Text: "The force of nature is untamed, undaunted by the world's ruin."
+
+Name: Rootborn Protector
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {1}{G}
+Card Text: Reach
+Power/Toughness: 1/3
+Flavor Text: "From the deepest roots, new guardians arise."
+
+Name: Nature's Embrace
+Rarity: Rare
+Card Type: Enchantment — Aura
+Mana Cost: {2}{G}
+Card Text: Enchant creature, Enchanted creature gets +3/+3 and has trample.
+Flavor Text: "The wild's embrace empowers the strong."
+
+Name: Broken Ground Behemoth
+Rarity: Common
+Card Type: Creature — Beast
+Mana Cost: {4}{G}
+Card Text: Trample
+Power/Toughness: 5/4
+Flavor Text: "Even the land itself has turned savage."
+
+Name: Lifespring Druid
+Rarity: Uncommon
+Card Type: Creature — Elf Druid
+Mana Cost: {2}{G}
+Card Text: {T}: Add one mana of any color.
+Power/Toughness: 1/1
+Flavor Text: "Nature's gifts are boundless, even in a world torn asunder."
+
+Name: Rejuvenating Touch
+Rarity: Common
+Card Type: Instant
+Mana Cost: {G}
+Card Text: Prevent all combat damage that would be dealt this turn. You gain 2 life.
+Flavor Text: "A moment of respite can restore the spirit."
+
+Name: Sylvan Awakening
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {3}{G}
+Card Text: Until end of turn, all lands you control become 2/2 Elemental creatures with reach. They're still lands.
+Flavor Text: "The land itself rises to defend the sundered world."
+
+Name: Wildwood Guardian
+Rarity: Common
+Card Type: Creature — Elemental
+Mana Cost: {3}{G}
+Card Text: When Wildwood Guardian enters the battlefield, target land you control becomes a 2/2 Elemental creature with reach. It's still a land.
+Power/Toughness: 2/2
+Flavor Text: "Nature's protectors stand vigilant."
+
+Name: Seedborn Muse
+Rarity: Mythic Rare
+Card Type: Creature — Spirit
+Mana Cost: {3}{G}{G}
+Card Text: At the beginning of each player's upkeep, untap all permanents you control.
+Power/Toughness: 2/4
+Flavor Text: "The essence of life endures, guiding us through the sundering."
+
+Name: Overgrown Ruins
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {G}. {1}{G}, {T}: Put a +1/+1 counter on target creature you control.
+Flavor Text: "Nature reclaims what once belonged to it."
+
+Name: Unyielding Growth
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {2}{G}
+Card Text: At the beginning of your upkeep, you may put a +1/+1 counter on target creature you control.
+Flavor Text: "In the shadow of destruction, life persists."
+
+Name: Regrowth Charm
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{G}
+Card Text: Choose one —
+• Return target creature card from your graveyard to your hand.
+• Target creature gets +2/+2 until end of turn.
+Flavor Text: "Nature's resilience is our greatest ally."
+
+Name: Fertile Grounds
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {2}{G}
+Card Text: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+Flavor Text: "The land provides, even in the darkest times."
+
+Name: Sundered Wurm
+Rarity: Rare
+Card Type: Creature — Wurm
+Mana Cost: {5}{G}{G}
+Card Text: Trample, Whenever Sundered Wurm attacks, you may sacrifice a land. If you do, put a +1/+1 counter on it.
+Power/Toughness: 7/7
+Flavor Text: "Born from the ruins, it hungers for destruction."
+
+Name: Forestborn Druid
+Rarity: Common
+Card Type: Creature — Elf Druid
+Mana Cost: {1}{G}
+Card Text: {T}: Add {G}.
+Power/Toughness: 1/1
+Flavor Text: "The land whispers its secrets to those who listen."
+
+Name: Primal Roar
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{G}
+Card Text: Target creature you control gets +3/+3 and gains trample until end of turn.
+Flavor Text: "The sundered world echoes with the fury of the wild."
+
+Name: Resurgent Lasher
+Rarity: Rare
+Card Type: Creature — Plant
+Mana Cost: {3}{G}
+Card Text: Whenever a land enters the battlefield under your control, put a +1/+1 counter on Resurgent Lasher.
+Power/Toughness: 2/2
+Flavor Text: "Nature thrives amid the ruins, reclaiming its domain."
+
+Name: Sylvan Outcast
+Rarity: Common
+Card Type: Creature — Human Warrior
+Mana Cost: {3}{G}
+Card Text: Hexproof
+Power/Toughness: 3/3
+Flavor Text: "A lone wanderer, one with the wilds of the sundered world."
+
+Name: Nurturing Spirit
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {4}{G}
+Card Text: Whenever you gain life, put a +1/+1 counter on Nurturing Spirit.
+Power/Toughness: 3/3
+Flavor Text: "It grows stronger with the life it fosters."
+
+Name: Rebirth of the Wild
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {4}{G}{G}
+Card Text: Return all creature cards from your graveyard to the battlefield. They gain haste until end of turn.
+Flavor Text: "Life's cycle is unbroken, even in the wake of devastation."
+
+Name: Verdant Explorer
+Rarity: Common
+Card Type: Creature — Human Scout
+Mana Cost: {1}{G}
+Card Text: When Verdant Explorer enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+Power/Toughness: 1/1
+Flavor Text: "The secrets of the sundered world lie waiting to be found."
+
+Name: Tangled Growth
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{G}
+Card Text: Target creature gets +1/+3 until end of turn. Untap it.
+Flavor Text: "The sundered world's wild growth lends strength to the weary."
+
+Name: Earthshaker Elemental
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {4}{G}{G}
+Card Text: Trample, When Earthshaker Elemental enters the battlefield, destroy target artifact or enchantment.
+Power/Toughness: 6/6
+Flavor Text: "A force of nature, it shatters the remnants of the past."
+
+Name: Reclaim the Wild
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {2}{G}
+Card Text: Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+Flavor Text: "The relics of a lost age crumble beneath nature's relentless advance."
+
+Name: Forest's Embrace
+Rarity: Common
+Card Type: Enchantment — Aura
+Mana Cost: {1}{G}
+Card Text: Enchant creature, Enchanted creature gets +2/+2 and has reach.
+Flavor Text: "The forest's protection shields the faithful."
+
+Name: Untamed Spirit
+Rarity: Uncommon
+Card Type: Creature — Elemental Spirit
+Mana Cost: {2}{G}
+Card Text: Hexproof, Untamed Spirit can't be blocked by creatures with power 2 or less.
+Power/Toughness: 3/2
+Flavor Text: "A restless spirit born of the sundered world's chaos."
+
+Name: Grove's Bounty
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {3}{G}
+Card Text: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+Flavor Text: "The land's abundance endures, even amid destruction."
+
+Name: Primeval Warden
+Rarity: Common
+Card Type: Creature — Beast
+Mana Cost: {4}{G}
+Card Text: Vigilance
+Power/Toughness: 4/4
+Flavor Text: "The ancient guardians stand watch over the sundered world."
+
+Name: Forestborn Champion
+Rarity: Uncommon
+Card Type: Creature — Elf Warrior
+Mana Cost: {2}{G}{G}
+Card Text: Trample, When Forestborn Champion enters the battlefield, put a +1/+1 counter on each other creature you control.
+Power/Toughness: 3/3
+Flavor Text: "Their bond with the land grants them unmatched power."
+
+Name: Vines of Retribution
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {3}{G}{G}
+Card Text: Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text: "The wrath of the wild grows with each passing day."
+
+Name: Wild Growth Tender
+Rarity: Common
+Card Type: Creature — Elf Druid
+Mana Cost: {3}{G}
+Card Text: {T}: Add {G}. If you control five or more lands, add {G}{G} instead.
+Power/Toughness: 2/2
+Flavor Text: "As the land flourishes, so do
+
+Name: Thriving Tangle
+Rarity: Common
+Card Type: Creature — Plant
+Mana Cost: {1}{G}
+Card Text: Defender, At the beginning of your end step, if you gained life this turn, put a +1/+1 counter on Thriving Tangle.
+Power/Toughness: 0/3
+Flavor Text: "The shattered world's life-force remains strong, ever-growing."
+
+Name: Primal Instinct
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{G}
+Card Text: Target creature you control gets +2/+2 and gains hexproof until end of turn.
+Flavor Text: "The wilds guide and protect those who embrace their primal nature."
+
+Name: Resilient Behemoth
+Rarity: Rare
+Card Type: Creature — Beast
+Mana Cost: {4}{G}{G}
+Card Text: Trample, Whenever Resilient Behemoth is dealt damage, put a +1/+1 counter on it.
+Power/Toughness: 6/6
+Flavor Text: "The sundered world's survivors grow stronger through adversity."
+
+Name: Rejuvenating Glade
+Rarity: Mythic Rare
+Card Type: Land
+Mana Cost: {T}
+Card Text: {T}: Add {G}. When you tap Rejuvenating Glade for mana, if you control five or more lands, you gain 1 life.
+Flavor Text: "A sanctuary of life, hidden amid the ruins."

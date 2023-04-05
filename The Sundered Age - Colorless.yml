@@ -1,0 +1,144 @@
+The Sundered Age - Colorless
+
+Name: Crumbling Reliquary
+Rarity: Common
+Card Type: Artifact
+Mana Cost: {2}
+Card Text: {T}, Sacrifice Crumbling Reliquary: Add one mana of any color.
+Flavor Text: "The remnants of a forgotten civilization still hold power."
+ 
+Name: Wasteland Strider
+Rarity: Uncommon
+Card Type: Artifact Creature — Construct
+Mana Cost: {4}
+Card Text: When Wasteland Strider enters the battlefield, exile target artifact or enchantment an opponent controls until Wasteland Strider leaves the battlefield.
+Power/Toughness: 3/3
+Flavor Text: "It walks the ruins, claiming relics as its own."
+ 
+Name: Sundered Sphere
+Rarity: Rare
+Card Type: Artifact
+Mana Cost: {3}
+Card Text: At the beginning of your upkeep, scry 1. {T}, Sacrifice Sundered Sphere: Draw a card.
+Flavor Text: "The sphere whispers secrets of a fractured world."
+ 
+Name: Oblivion Gate
+Rarity: Mythic Rare
+Card Type: Artifact
+Mana Cost: {6}
+Card Text: {T}: Exile target creature. Its controller creates a 1/1 colorless Eldrazi Scion creature token with "Sacrifice this creature: Add {C}."
+Flavor Text: "The gate tears the fabric of reality, banishing all that passes through."
+ 
+Name: Echoing Vessel
+Rarity: Common
+Card Type: Artifact
+Mana Cost: {1}
+Card Text: {2}, {T}, Sacrifice Echoing Vessel: Create a token that's a copy of target creature you control, except it's an artifact in addition to its other types.
+Flavor Text: "The past's reflection lingers, captured in metal and magic."
+ 
+Name: Prismatic Lens
+Rarity: Uncommon
+Card Type: Artifact
+Mana Cost: {2}
+Card Text: {T}: Add {C}. {1}, {T}: Add one mana of any color.
+Flavor Text: "A shard of the old world, refracting light and hope."
+ 
+Name: Relic of the Sundered
+Rarity: Rare
+Card Type: Artifact
+Mana Cost: {3}
+Card Text: Whenever you cast a spell, put a charge counter on Relic of the Sundered. {T}, Remove X charge counters from Relic of the Sundered: Add X mana of any one color.
+Flavor Text: "The power of the ancients still resonates within."
+ 
+Name: Scorched Earth
+Rarity: Rare
+Card Type: Land
+Card Text: Scorched Earth enters the battlefield tapped. {T}: Add {C}. {2}, {T}, Sacrifice Scorched Earth: Deal 2 damage to target creature or planeswalker.
+Flavor Text: "A land scarred by conflict, where fire still reigns."
+ 
+Name: Ruinborn Colossus
+Rarity: Mythic Rare
+Card Type: Artifact Creature — Golem
+Mana Cost: {7}
+Card Text: Trample, hexproof from colored spells
+Power/Toughness: 8/8
+Flavor Text: "A titan of the wastes, forged from the remnants of a shattered world."
+ 
+Name: Eldrazi Emissary
+Rarity: Uncommon
+Card Type: Creature — Eldrazi Drone
+Mana Cost: {6}
+Card Text: Devoid (This card has no color.), When Eldrazi Emissary enters the battlefield, exile target nonland permanent an opponent controls until Eldrazi Emissary leaves the battlefield.
+Power/Toughness: 4/4
+Flavor Text: "An unsettling harbinger of the world's sundering."
+ 
+Name: Aetherwrought Key
+Rarity: Uncommon
+Card Type: Artifact
+Mana Cost: {1}
+Card Text: {1}, {T}: Untap target artifact or creature.
+Flavor Text: "The key unlocks dormant energies, breathing life into the inanimate."
+ 
+Name: Rusted Golem
+Rarity: Common
+Card Type: Artifact Creature — Golem
+Mana Cost: {5}
+Card Text: When Rusted Golem enters the battlefield, you may destroy target artifact.
+Power/Toughness: 4/4
+Flavor Text: "Time wears on all things, but it is the rust that brings ruin."
+ 
+Name: Silent Warden
+Rarity: Rare
+Card Type: Artifact Creature — Construct
+Mana Cost: {4}
+Card Text: Hexproof, Silent Warden can block an additional creature each combat.
+Power/Toughness: 2/5
+Flavor Text: "Its vigil never falters, a tireless guardian of shattered secrets."
+ 
+Name: Forsaken Monument
+Rarity: Mythic Rare
+Card Type: Artifact
+Mana Cost: {5}
+Card Text: Whenever you tap a permanent for {C}, add an additional {C}. {3}, {T}: Target creature gets +2/+2 until end of turn.
+Flavor Text: "In the shadow of a fallen empire, a monument to resilience endures."
+ 
+Name: Unstable Crater
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {C}. {T}, Sacrifice Unstable Crater: Add two mana of any one color.
+Flavor Text: "Where once there was life, now only a volatile emptiness remains."
+ 
+Name: Spatial Distortion
+Rarity: Common
+Card Type: Instant
+Mana Cost: {3}{C}
+Card Text: Devoid (This card has no color.), Exile target creature. Its controller creates a 3/3 colorless Eldrazi Horror creature token.
+Flavor Text: "The sundered world bends and twists, warping space and reality."
+ 
+Name: Drifting Monolith
+Rarity: Uncommon
+Card Type: Artifact Creature — Construct
+Mana Cost: {4}
+Card Text: Defender, {2}: Drifting Monolith loses defender until end of turn.
+Power/Toughness: 3/5
+Flavor Text: "A silent sentinel, ever shifting through the wastes."
+ 
+Name: Sundered Locus
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {C}. {5}, {T}, Sacrifice Sundered Locus: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Flavor Text: "A nexus of power, hidden within the fractured landscape."
+ 
+Name: Fragmented Repository
+Rarity: Common
+Card Type: Land
+Card Text: {T}: Add {C}. {1}, {T}, Sacrifice Fragmented Repository: Scry 2.
+Flavor Text: "The scattered remnants of knowledge lie hidden within the desolation."
+ 
+Name: Eldrazi Skyspawner
+Rarity: Common
+Card Type: Creature — Eldrazi Drone
+Mana Cost: {2}{C}
+Card Text: Devoid (This card has no color.), Flying. When Eldrazi Skyspawner enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token with "Sacrifice this creature: Add {C}."
+Power/Toughness: 2/1
+Flavor Text: "They descend from the skies, harbingers of the world's sundering."

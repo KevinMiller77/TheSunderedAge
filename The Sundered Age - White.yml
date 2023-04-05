@@ -1,0 +1,349 @@
+The Sundered Age - White
+
+Name: Ruins Vanguard
+Rarity: Common
+Card Type: Creature — Human Soldier
+Mana Cost: {W}
+Card Text: First strike
+Power/Toughness: 1/1
+Flavor Text: "In the heart of chaos, they forge order."
+
+Name: Scouring Light
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{W}
+Card Text: Destroy target enchantment. You gain 3 life.
+Flavor Text: "The sundered world cries out for redemption."
+
+Name: Blessed Aegis
+Rarity: Uncommon
+Card Type: Enchantment — Aura
+Mana Cost: {1}{W}
+Card Text: Enchant creature, Enchanted creature gets +1/+3 and has vigilance.
+Flavor Text: "The divine watch over those who endure."
+
+Name: Sanctifier of Ruin
+Rarity: Rare
+Card Type: Creature — Human Cleric
+Mana Cost: {2}{W}
+Card Text: When Sanctifier of Ruin enters the battlefield, exile target enchantment or artifact. When Sanctifier of Ruin leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Power/Toughness: 2/2
+Flavor Text: "The faithful cleanse the world of its corruption."
+
+Name: Remnant Paladin
+Rarity: Common
+Card Type: Creature — Human Knight
+Mana Cost: {2}{W}
+Card Text: Vigilance
+Power/Toughness: 3/3
+Flavor Text: "Though the world crumbles, our resolve remains unbroken."
+
+Name: Radiant Reclaimer
+Rarity: Uncommon
+Card Type: Creature — Human Cleric
+Mana Cost: {3}{W}
+Card Text: When Radiant Reclaimer enters the battlefield, return target enchantment card from your graveyard to your hand.
+Power/Toughness: 2/3
+Flavor Text: "The light of hope persists, even in the darkest times."
+
+Name: Faith's Renewal
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {1}{W}
+Card Text: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Gain 2 life.
+Flavor Text: "Through faith, the sundered world may yet find redemption."
+
+Name: Wall of Resurgence
+Rarity: Common
+Card Type: Creature — Wall
+Mana Cost: {2}{W}
+Card Text: Defender, When Wall of Resurgence enters the battlefield, you may put three +1/+1 counters on target creature you control.
+Power/Toughness: 0/6
+Flavor Text: "The remnants of a shattered world rise to defend what remains."
+
+Name: Shattered Conviction
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {2}{W}
+Card Text: Whenever a creature enters the battlefield under an opponent's control, that creature's controller sacrifices a creature or planeswalker.
+Flavor Text: "The sundering tests the mettle of all who face it."
+
+Name: Ardent Protector
+Rarity: Common
+Card Type: Creature — Human Soldier
+Mana Cost: {3}{W}
+Card Text: When Ardent Protector enters the battlefield, target creature you control gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+Power/Toughness: 2/4
+Flavor Text: "In the face of annihilation, they stand unwavering."
+
+Name: Divine Reckoning
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {3}{W}
+Card Text: Exile all creatures. Each player may return a creature card from their graveyard to the battlefield.
+Flavor Text: "From the ashes of the sundered world, new life emerges."
+
+Name: Solemn Judicator
+Rarity: Uncommon
+Card Type: Creature — Human Cleric
+Mana Cost: {2}{W}
+Card Text: Whenever you cast an enchantment spell, you gain 2 life.
+Power/Toughness: 2/2
+Flavor Text: "The divine light guides us through the ruins."
+
+Name: Hallowed Sanctuary
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {1}{W}
+Card Text: If a source would deal damage to a creature you control, prevent all but 1 of that damage.
+Flavor Text: "A glimmer of hope shelters those who seek refuge."
+
+Name: Flickering Wisp
+Rarity: Common
+Card Type: Creature — Spirit
+Mana Cost: {1}{W}
+Card Text: Flying, When Flickering Wisp enters the battlefield, exile another target creature you control, then return it to the battlefield under your control.
+Power/Toughness: 1/1
+Flavor Text: "Guided by ethereal lights, the sundered world's survivors find their path."
+
+Name: Resolute Marshal
+Rarity: Uncommon
+Card Type: Creature — Human Soldier
+Mana Cost: {3}{W}
+Card Text: First strike, Whenever Resolute Marshal attacks, other attacking creatures you control get +1/+1 until end of turn.
+Power/Toughness: 3/3
+Flavor Text: "United in purpose, the remnants of humanity stand against the sundering."
+Name: Pledge of Unity
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {2}{W}
+Card Text: Creatures you control get +1/+1 until end of turn. You gain 1 life for each creature you control.
+Flavor Text: "In our darkest hour, we stand as one."
+
+Name: Forgotten Martyr
+Rarity: Common
+Card Type: Creature — Human Cleric
+Mana Cost: {1}{W}
+Card Text: Lifelink
+Power/Toughness: 1/1
+Flavor Text: "Through sacrifice, we find salvation."
+
+Name: Desolate Squire
+Rarity: Uncommon
+Card Type: Creature — Human Knight
+Mana Cost: {W}
+Card Text: First strike, As long as you control an enchantment, Desolate Squire gets +1/+1.
+Power/Toughness: 1/1
+Flavor Text: "Empowered by faith, they stand resolute amid the ruins."
+
+Name: Purifying Nova
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {3}{W}{W}
+Card Text: Destroy all creatures and planeswalkers. You gain 2 life for each permanent destroyed this way.
+Flavor Text: "A cleansing fire consumes the darkness, leaving only hope in its wake."
+
+Name: Serra's Embrace
+Rarity: Uncommon
+Card Type: Enchantment — Aura
+Mana Cost: {2}{W}
+Card Text: Enchant creature, Enchanted creature gets +2/+2, has flying, and has vigilance.
+Flavor Text: "The remnants of a sundered world find solace in her light."
+
+Name: Reclaim the Fallen
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{W}
+Card Text: Return target creature card with mana value 3 or less from your graveyard to your hand.
+Flavor Text: "From the ashes of the past, we forge a new future."
+
+Name: Faithful Rescuer
+Rarity: Common
+Card Type: Creature — Human Cleric
+Mana Cost: {2}{W}
+Card Text: When Faithful Rescuer enters the battlefield, return target enchantment card from your graveyard to your hand.
+Power/Toughness: 2/2
+Flavor Text: "The relics of the old world will guide us through the new."
+
+Name: Steadfast Guardian
+Rarity: Uncommon
+Card Type: Creature — Human Soldier
+Mana Cost: {3}{W}
+Card Text: Vigilance, When Steadfast Guardian enters the battlefield, create a 1/1 white Human Soldier creature token.
+Power/Toughness: 3/3
+Flavor Text: "Together we shall rebuild, unbroken and unbowed."
+
+Name: Light of the Sundered
+Rarity: Mythic Rare
+Card Type: Planeswalker — Elspeth
+Mana Cost: {4}{W}
+Card Text:
++1: Create a 1/1 white Soldier creature token.
+-2: Exile target creature with power 4 or greater.
+-6: You get an emblem with "At the beginning of your end step, create three 1/1 white Soldier creature tokens."
+Loyalty: 4
+
+Name: Final Judgment
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {2}{W}{W}
+Card Text: Exile all attacking creatures. You gain 2 life for each creature exiled this way.
+Flavor Text: "In the ruins, the last stand of the righteous brings hope to the shattered world."
+
+Name: Bastion of Hope
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {2}{W}
+Card Text: Whenever a creature you control dies, put a hope counter on Bastion of Hope. Remove three hope counters from Bastion of Hope: Create a 2/2 white Knight creature token with vigilance.
+Flavor Text: "In the midst of despair, a beacon of hope shines through."
+
+Name: Tireless Crusader
+Rarity: Common
+Card Type: Creature — Human Knight
+Mana Cost: {3}{W}
+Card Text: Vigilance
+Power/Toughness: 4/4
+Flavor Text: "Unyielding in the face of calamity, they fight for the future."
+
+Name: Dawnbringer's Chosen
+Rarity: Rare
+Card Type: Creature — Angel
+Mana Cost: {5}{W}
+Card Text: Flying, vigilance. When Dawnbringer's Chosen enters the battlefield, you may exile target creature or enchantment.
+Power/Toughness: 4/4
+Flavor Text: "Guided by divine light, they purge the remnants of a broken world."
+
+Name: Echoes of Faith
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {X}{W}
+Card Text: Create X 1/1 white Human Soldier creature tokens, where X is the number of enchantments you control.
+Flavor Text: "The echoes of devotion call forth the faithful, even in the darkest hours."
+
+Name: Restoring Cleric
+Rarity: Common
+Card Type: Creature — Human Cleric
+Mana Cost: {1}{W}
+Card Text: When Restoring Cleric enters the battlefield, you gain 2 life.
+Power/Toughness: 1/1
+Flavor Text: "Their healing touch brings solace to the weary and the wounded."
+
+Name: Devoted Keeper
+Rarity: Uncommon
+Card Type: Creature — Human Cleric
+Mana Cost: {2}{W}
+Card Text: Whenever you cast an enchantment spell, put a +1/+1 counter on Devoted Keeper.
+Power/Toughness: 2/2
+Flavor Text: "In the shattered world, their faith only grows stronger."
+
+Name: Beacon of Restoration
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {3}{W}
+Card Text: At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield.
+Flavor Text: "A glimmer of the past guides us through the ruins."
+
+Name: Zealous Crusader
+Rarity: Common
+Card Type: Creature — Human Knight
+Mana Cost: {3}{W}
+Card Text: First strike
+Power/Toughness: 3/3
+Flavor Text: "Their passion burns bright, undimmed by the darkness."
+
+Name: Timeworn Reclaimer
+Rarity: Uncommon
+Card Type: Creature — Human Cleric
+Mana Cost: {4}{W}
+Card Text: When Timeworn Reclaimer enters the battlefield, return target enchantment card from your graveyard to the battlefield.
+Power/Toughness: 3/3
+Flavor Text: "The relics of a sundered world hold the key to our salvation."
+
+Name: Ascendant Seraph
+Rarity: Mythic Rare
+Card Type: Creature — Angel
+Mana Cost: {4}{W}{W}
+Card Text: Flying, lifelink, At the beginning of your upkeep, if you have 30 or more life, put a +1/+1 counter on each creature you control.
+Power/Toughness: 4/4
+Flavor Text: "The divine embrace raises the faithful above the sundering."
+
+Name: Martyr's Blessing
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{W}
+Card Text: Target creature gains indestructible until end of turn. Draw a card.
+Flavor Text: "The fallen inspire the living to carry on."
+
+Name: Shattered Conviction
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {2}{W}
+Card Text: Creatures can't attack you unless their controller pays {1} for each creature they control that's attacking you.
+Flavor Text: "The sundered world's defenders stand resolute, unwavering."
+
+Name: Shield of the Fallen
+Rarity: Uncommon
+Card Type: Artifact — Equipment
+Mana Cost: {1}{W}
+Card Text: Equipped creature gets +0/+2 and has vigilance. Equip {1}{W}
+Flavor Text: "The memory of those who came before us strengthens our resolve."
+
+Name: Radiant Intervention
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{W}
+Card Text: Prevent all damage that would be dealt to target creature this turn. You gain life equal to the damage prevented this way.
+Flavor Text: "In the darkest moments, the light of hope shines brightest."
+
+Name: Angelic Overseer
+Rarity: Mythic Rare
+Card Type: Creature — Angel
+Mana Cost: {3}{W}{W}
+Card Text: Flying, Whenever you gain life, put a +1/+1 counter on Angelic Overseer.
+Power/Toughness: 3/3
+Flavor Text: "A guiding light in the darkness, she watches over the sundered world."
+
+Name: Resolute Stand
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{W}
+Card Text: Target creature you control gets +2/+2 and gains indestructible until end of turn.
+Flavor Text: "In the face of annihilation, the faithful do not falter."
+
+Name: Sunlit Reclaimer
+Rarity: Rare
+Card Type: Creature — Human Cleric
+Mana Cost: {4}{W}
+Card Text: When Sunlit Reclaimer enters the battlefield, exile target enchantment or artifact an opponent controls.
+Power/Toughness: 3/4
+Flavor Text: "Through the sundering, we purge the remnants of the old world's corruption."
+
+Name: Path of the Righteous
+Rarity: Uncommon
+Card Type: Enchantment — Aura
+Mana Cost: {1}{W}
+Card Text: Enchant creature, Enchanted creature gets +1/+1 and has first strike. Whenever enchanted creature deals combat damage to a player, you gain that much life.
+Flavor Text: "Even amid the ruins, the path of virtue remains clear."
+
+Name: Hallowed Sanctuary
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {W}. {2}{W}, {T}: Tap target creature. It doesn't untap during its controller's next untap step.
+Flavor Text: "The remnants of a sacred past offer solace and protection."
+
+Name: Herald of the Dawn
+Rarity: Common
+Card Type: Creature — Human Soldier
+Mana Cost: {3}{W}
+Card Text: When Herald of the Dawn enters the battlefield, put a +1/+1 counter on target creature you control.
+Power/Toughness: 2/2
+Flavor Text: "The break of dawn heralds a new beginning."
+
+Name: Righteous Defender
+Rarity: Common
+Card Type: Creature — Human Soldier
+Mana Cost: {1}{W}
+Card Text: Vigilance
+Power/Toughness: 1/2
+Flavor Text: "Standing tall amid the rubble, they embody hope for the future."
+

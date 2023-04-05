@@ -1,0 +1,341 @@
+Name: Cryptic Tides
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{U}
+Card Text: Counter target spell unless its controller pays {2}. Draw a card.
+Flavor Text: "The sundered world's oceans hold secrets that can turn the tide of battle."
+
+Name: Riftwatcher Drake
+Rarity: Uncommon
+Card Type: Creature — Drake
+Mana Cost: {2}{U}{U}
+Card Text: Flying, When Riftwatcher Drake enters the battlefield, scry 2.
+Power/Toughness: 3/3
+Flavor Text: "The drakes of the sundered world navigate the chaotic skies with ease."
+
+Name: Foresight Adept
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}
+Card Text: {T}: Scry 1.
+Power/Toughness: 1/2
+Flavor Text: "The sundered world's wise seek guidance in the patterns of the shattered sky."
+
+Name: Sundering Illusion
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {2}{U}
+Card Text: Whenever an opponent casts a spell, you may pay {1}{U}. If you do, counter that spell.
+Flavor Text: "The sundered world's fractured reality bends to the will of the cunning."
+
+Name: Timeworn Navigator
+Rarity: Mythic Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}{U}
+Card Text: {2}{U}, {T}: Return target instant or sorcery card from your graveyard to your hand.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's lost knowledge is the key to our survival."
+
+Name: Veil of Mist
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{U}
+Card Text: Target creature gets -3/-0 until end of turn. Draw a card.
+Flavor Text: "The sundered world's mists conceal danger and opportunity alike."
+
+Name: Reckless Researcher
+Rarity: Uncommon
+Card Type: Creature — Human Wizard
+Mana Cost: {3}{U}
+Card Text: {2}{U}, {T}: Draw two cards, then discard a card at random.
+Power/Toughness: 2/3
+Flavor Text: "The sundered world's secrets demand a daring mind to unlock."
+
+Name: Echoing Dissipation
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {1}{U}{U}
+Card Text: Counter target spell. If a spell with the same name is in its controller's graveyard, exile that card.
+Flavor Text: "The sundered world's echoes fade into silence."
+
+Name: Aether Rift
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {3}{U}{U}
+Card Text: At the beginning of your upkeep, exile the top card of your library. You may cast that card without paying its mana cost until the end of your next turn.
+Flavor Text: "The sundered world's rifts unleash untold power."
+
+Name: Shifting Currents
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {1}{U}
+Card Text: Return target nonland permanent to its owner's hand.
+Flavor Text: "The sundered world's tides wash away the old, leaving room for the new."
+
+
+Name: Dreamweaver Acolyte
+Rarity: Common
+Card Type: Creature — Merfolk Wizard
+Mana Cost: {2}{U}
+Card Text: When Dreamweaver Acolyte enters the battlefield, draw a card, then discard a card.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's dreams hold the seeds of new realities."
+
+Name: Temporal Eddy
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {3}{U}
+Card Text: Exile target creature. Its controller may put it onto the battlefield at the beginning of their next upkeep.
+Flavor Text: "The sundered world's chaotic currents pluck victims from reality's grasp."
+
+Name: Thought Disruption
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {2}{U}
+Card Text: Look at target player's hand. Choose a nonland card from it. That player discards that card.
+Flavor Text: "The sundered world's shattered minds are ripe for manipulation."
+
+Name: Arcane Whirlwind
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {3}{U}{U}
+Card Text: Whenever you cast an instant or sorcery spell, you may pay {1}{U}. If you do, copy that spell. You may choose new targets for the copy.
+Flavor Text: "The sundered world's maelstroms amplify the power of those who can harness them."
+
+Name: Lost Mariner
+Rarity: Common
+Card Type: Creature — Spirit Pirate
+Mana Cost: {4}{U}
+Card Text: When Lost Mariner enters the battlefield, return target creature to its owner's hand.
+Power/Toughness: 3/4
+Flavor Text: "The sundered world's forgotten souls still wander its shattered seas."
+
+Name: Scour the Depths
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {3}{U}
+Card Text: Draw three cards, then discard two cards unless you discard an instant or sorcery card.
+Flavor Text: "The sundered world's depths hide knowledge waiting to be rediscovered."
+
+Name: Ephemeral Apparition
+Rarity: Rare
+Card Type: Creature — Illusion
+Mana Cost: {1}{U}
+Card Text: Flash, When Ephemeral Apparition enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.)
+Power/Toughness: 2/1
+Flavor Text: "The sundered world's illusions confound and deceive."
+
+Name: Illusory Barrier
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{U}
+Card Text: Whenever a creature attacks you or a planeswalker you control, you may pay {1}{U}. If you do, create a token that's a copy of that creature, except it's an Illusion in addition to its other types. It blocks that creature if able.
+Flavor Text: "The sundered world's reflections can prove deadly."
+
+Name: Tidal Force
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{U}
+Card Text: Tap or untap target creature.
+Flavor Text: "The sundered world's tides can hinder or hasten, depending on one's whims."
+
+Name: Sundered Scholar
+Rarity: Uncommon
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{U}
+Card Text: {1}{U}, {T}: Target player mills three cards.
+Power/Toughness: 1/3
+Flavor Text: "The sundered world's fragmented histories hold secrets waiting to be unearthed."
+
+Name: Serpent of the Depths
+Rarity: Common
+Card Type: Creature — Serpent
+Mana Cost: {4}{U}
+Card Text: Serpent of the Depths can't be blocked.
+Power/Toughness: 3/3
+Flavor Text: "In the sundered world's abyss, slumbering horrors awaken."
+
+Name: Mindflux Manta
+Rarity: Uncommon
+Card Type: Creature — Manta
+Mana Cost: {3}{U}
+Card Text: Flying, When Mindflux Manta enters the battlefield, draw a card.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's skies conceal creatures of unfathomable wisdom."
+
+Name: Essence Distortion
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {1}{U}
+Card Text: Counter target spell with converted mana cost 2 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Flavor Text: "The sundered world's energies warp and shatter the unprepared."
+
+Name: Nexus Stalker
+Rarity: Mythic Rare
+Card Type: Creature — Illusion
+Mana Cost: {2}{U}
+Card Text: Hexproof, When Nexus Stalker enters the battlefield, exile target nonland permanent an opponent controls until Nexus Stalker leaves the battlefield.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's hidden pathways lead to places best left unseen."
+
+Name: Whispers of the Past
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {1}{U}
+Card Text: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Flavor Text: "The sundered world's echoes whisper secrets to those who listen."
+
+Name: Timeworn Trickster
+Rarity: Uncommon
+Card Type: Creature — Human Rogue
+Mana Cost: {1}{U}
+Card Text: {2}{U}, {T}: Tap target creature. It doesn't untap during its controller's next untap step.
+Power/Toughness: 1/1
+Flavor Text: "The sundered world's rogues thrive on deception and misdirection."
+
+Name: Deny the Unthinkable
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {3}{U}
+Card Text: Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to one target card from a graveyard into its owner's library.
+Flavor Text: "The sundered world's defenders stand vigilant against abominations."
+
+Name: Fractured Mindmage
+Rarity: Mythic Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{U}{U}
+Card Text: {T}: Tap target creature. It doesn't untap during its controller's next untap step. {3}{U}: Gain control of target creature with power less than or equal to Fractured
+
+Name: Drifting Thought
+Rarity: Common
+Card Type: Enchantment — Aura
+Mana Cost: {1}{U}
+Card Text: Enchant creature, Enchanted creature doesn't untap during its controller's untap step.
+Flavor Text: "The sundered world's fractured dreams ensnare the unwary."
+
+Name: Arcane Refractor
+Rarity: Uncommon
+Card Type: Artifact
+Mana Cost: {3}
+Card Text: {1}, {T}: The next time you cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Flavor Text: "The sundered world's artifacts harness the power of the arcane."
+
+Name: Echoes of Time
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {2}{U}
+Card Text: Exile target instant or sorcery card from a graveyard. You may cast that card this turn. If you do, exile it instead of putting it anywhere else any time it would leave the stack.
+Flavor Text: "The sundered world's past echoes resonate through the present."
+
+Name: Unraveler of Secrets
+Rarity: Mythic Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {3}{U}{U}
+Card Text: {1}{U}, {T}: Look at target player's hand. {2}{U}, {T}: Draw a card, then discard a card.
+Power/Toughness: 2/4
+Flavor Text: "The sundered world's enigmas are laid bare before her piercing gaze."
+
+Name: Cautious Explorer
+Rarity: Common
+Card Type: Creature — Human Scout
+Mana Cost: {2}{U}
+Card Text: When Cautious Explorer enters the battlefield, scry 2.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's survivors tread carefully through the ruins."
+
+Name: Shattered Skyline
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {2}{U}
+Card Text: Whenever a creature with flying enters the battlefield under your control, you may return target nonland permanent to its owner's hand.
+Flavor Text: "The sundered world's skies are a tempest of chaos and upheaval."
+
+Name: Restless Apparition
+Rarity: Rare
+Card Type: Creature — Spirit
+Mana Cost: {1}{U}
+Card Text: Flash, When Restless Apparition enters the battlefield, return target nonland permanent to its owner's hand.
+Power/Toughness: 1/1
+Flavor Text: "The sundered world's spirits haunt its broken landscapes."
+
+Name: Vortex of Time
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {3}{U}{U}
+Card Text: At the beginning of each player's upkeep, that player may choose a card exiled with Vortex of Time and cast it without paying its mana cost.
+Flavor Text: "The sundered world's swirling tempests tear at the fabric of reality."
+
+Name: Wayfarer's Charm
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{U}
+Card Text: Tap or untap target creature. Draw a card.
+Flavor Text: "The sundered world's wanderers find solace in small comforts."
+
+Name: Dimensional Drifter
+Rarity: Uncommon
+Card Type: Creature — Shapeshifter
+Mana Cost: {3}{U}
+Card Text: When Dimensional Drifter enters the battlefield, exile target creature an opponent controls until Dimensional Drifter leaves the battlefield.
+Power/Toughness: 2/3
+Flavor Text: "The sundered world's rifts bend reality to the will of those who can traverse them."
+
+Name: Riftkeeper
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{U}
+Card Text: {1}{U}, {T}: Return target nonland permanent to its owner's hand.
+Power/Toughness: 1/2
+Flavor Text: "The sundered world's guardians protect the remnants of a shattered reality."
+
+Name: Elusive Kraken
+Rarity: Uncommon
+Card Type: Creature — Kraken
+Mana Cost: {4}{U}{U}
+Card Text: Hexproof, Elusive Kraken can't be blocked.
+Power/Toughness: 4/4
+Flavor Text: "The sundered world's depths hide creatures of incomprehensible might."
+
+Name: Aether Disruption
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {3}{U}
+Card Text: Counter target spell. Its controller mills five cards.
+Flavor Text: "The sundered world's volatile energies warp the strands of fate."
+
+Name: Thought Mirage
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{U}
+Card Text: Whenever an opponent casts a spell, you may pay {1}{U}. If you do, counter that spell unless its controller pays {1} for each card in their hand.
+Flavor Text: "The sundered world's illusions bewilder the minds of the unprepared."
+
+Name: Adept of the Mists
+Rarity: Common
+Card Type: Creature — Merfolk Wizard
+Mana Cost: {1}{U}
+Card Text: {1}{U}, {T}: Scry 1.
+Power/Toughness: 1/1
+Flavor Text: "The sundered world's denizens seek wisdom in its shifting currents."
+
+Name: Time Twister's Touch
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {2}{U}
+Card Text: Return target nonland permanent to its owner's hand. Its controller mills cards equal to that permanent's converted mana cost.
+Flavor Text: "The sundered world's temporal vortexes upend the natural order."
+
+Name: Baleful Revenant
+Rarity: Rare
+Card Type: Creature — Spirit
+Mana Cost: {3}{U}{U}
+Card Text: Flying, When Baleful Revenant enters the battlefield, return target creature to its owner's hand.
+Power/Toughness: 3/3
+Flavor Text: "The sundered world's restless spirits seek solace in vengeance."
+
+Name: Shifting Sands
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{U}{U}
+Card Text: At the beginning of your upkeep, return target nonland permanent to its owner's hand. At the beginning of each opponent's upkeep, that player returns a nonland permanent they control to their hand.
+Flavor Text: "The sundered world's landscapes defy any sense of permanence."

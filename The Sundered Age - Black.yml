@@ -1,0 +1,339 @@
+Name: Necrotic Grasp
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{B}
+Card Text: Destroy target creature with power 2 or less.
+Flavor Text: "The weakened fall prey to the darkness that consumes the sundered world."
+
+Name: Shadowborn Revenant
+Rarity: Uncommon
+Card Type: Creature — Zombie
+Mana Cost: {2}{B}
+Card Text: When Shadowborn Revenant enters the battlefield, each opponent loses 2 life.
+Power/Toughness: 2/2
+Flavor Text: "Risen from the shadows, they hunger for the living."
+
+Name: Desolation Ritual
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {3}{B}{B}
+Card Text: Each player sacrifices a creature. You draw a card and lose 1 life for each creature sacrificed this way.
+Flavor Text: "In the sundered world, the strong feed on the weak."
+
+Name: Dreadmire Stalker
+Rarity: Common
+Card Type: Creature — Horror
+Mana Cost: {2}{B}
+Card Text: Deathtouch
+Power/Toughness: 1/3
+Flavor Text: "The darkness birthed nightmares that prey on the unwary."
+
+Name: Spirit of Malice
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {4}{B}
+Card Text: Flying, When Spirit of Malice enters the battlefield, target player loses 3 life and you gain 3 life.
+Power/Toughness: 3/3
+Flavor Text: "A manifestation of the sundered world's malevolence."
+
+Name: Reanimate the Fallen
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {2}{B}
+Card Text: Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.
+Flavor Text: "The sundered world's dead rise to serve new masters."
+
+Name: Soulshredder Imp
+Rarity: Common
+Card Type: Creature — Imp
+Mana Cost: {1}{B}
+Card Text: Flying, When Soulshredder Imp dies, each opponent loses 1 life.
+Power/Toughness: 1/1
+Flavor Text: "The imps feast on the despair that pervades the sundered world."
+
+Name: Forsaken Prophet
+Rarity: Mythic Rare
+Card Type: Creature — Zombie Cleric
+Mana Cost: {4}{B}{B}
+Card Text: When Forsaken Prophet enters the battlefield, target player loses life equal to the number of creature cards in their graveyard and you gain that much life.
+Power/Toughness: 4/4
+Flavor Text: "Their dark revelations herald only suffering."
+
+Name: Grim Bargain
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{B}
+Card Text: As an additional cost to cast this spell, pay X life. Draw X cards.
+Flavor Text: "In the sundered world, knowledge comes at a steep price."
+
+Name: Lurking Dread
+Rarity: Common
+Card Type: Creature — Horror
+Mana Cost: {3}{B}
+Card Text: Menace
+Power/Toughness: 3/2
+Flavor Text: "The twisted remnants of the world harbor unspeakable horrors."
+
+Name: Essence Harvest
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {1}{B}{B}
+Card Text: Destroy target creature. Its controller loses life equal to that creature's power.
+Flavor Text: "The sundered world consumes life, leaving only desolation."
+
+Name: Vile Rebirth
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{B}
+Card Text: Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.
+Flavor Text: "The dead find no rest in the sundered world."
+
+Name: Fetid Mirewalker
+Rarity: Uncommon
+Card Type: Creature — Zombie
+Mana Cost: {3}{B}
+Card Text: When Fetid Mirewalker enters the battlefield, each player discards a card.
+Power/Toughness: 3/3
+Flavor Text: "The rotting creatures spread the taint of the sundered world."
+
+Name: Corruption's Grasp
+Rarity: Rare
+Card Type: Enchantment — Aura
+Mana Cost: {2}{B}
+Card Text: Enchant creature, Enchanted creature gets -3/-3.
+Flavor Text: "Darkness seizes the unwary, dragging them into the depths."
+
+Name: Abyssal Horror
+Rarity: Common
+Card Type: Creature — Horror
+Mana Cost: {4}{B}
+Card Text: Intimidate
+Power/Toughness: 4/3
+Flavor Text: "The sundered world's nightmares take form and stalk the land."
+
+Name: Ravenous Ghoul
+Rarity: Uncommon
+Card Type: Creature — Zombie
+Mana Cost: {2}{B}
+Card Text: Whenever Ravenous Ghoul attacks, each opponent sacrifices a creature.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's undead hunger for the living."
+
+Name: Ebon Wurm
+Rarity: Rare
+Card Type: Creature — Wurm
+Mana Cost: {5}{B}{B}
+Card Text: Trample, At the beginning of your upkeep, sacrifice a creature.
+Power/Toughness: 7/6
+Flavor Text: "A monstrous appetite, never sated, preys upon the sundered world."
+
+Name: Grasp of Despair
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {5}{B}{B}
+Card Text: Destroy all creatures. They can't be regenerated.
+Flavor Text: "The darkness consumes all, leaving nothing but ruin."
+
+Name: Cursed Effigy
+Rarity: Common
+Card Type: Artifact
+Mana Cost: {3}
+Card Text: {2}, {T}: Target player loses 1 life and you gain 1 life.
+Flavor Text: "The sundered world's relics bear the taint of darkness."
+
+Name: Blighted Soul
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {2}{B}
+Card Text: Deathtouch, When Blighted Soul dies, target opponent loses 2 life.
+Power/Toughness: 1/2
+Flavor Text: "A twisted remnant of a lost soul, consumed by darkness."
+
+Name: Rotted Reclaimer
+Rarity: Common
+Card Type: Creature — Zombie
+Mana Cost: {1}{B}
+Card Text: When Rotted Reclaimer dies, you may return target creature card with converted mana cost 2 or less from your graveyard to your hand.
+Power/Toughness: 1/1
+Flavor Text: "Even in death, they find purpose."
+
+Name: Whisper of Decay
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {2}{B}
+Card Text: Each opponent sacrifices a creature with the greatest power among creatures they control. You gain life equal to the total power of creatures sacrificed this way.
+Flavor Text: "The sundered world whispers, promising a slow end."
+
+Name: Bonepicker Harpy
+Rarity: Rare
+Card Type: Creature — Harpy
+Mana Cost: {3}{B}
+Card Text: Flying, Whenever Bonepicker Harpy deals combat damage to a player, that player discards a card.
+Power/Toughness: 2/2
+Flavor Text: "They scavenge the remains of the sundered world, never satisfied."
+
+Name: Dark Pact
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{B}{B}
+Card Text: At the beginning of your upkeep, you may pay {B}. If you do, draw a card and lose 1 life.
+Flavor Text: "In the sundered world, the desperate turn to darkness."
+
+Name: Gravedigger Shade
+Rarity: Common
+Card Type: Creature — Shade
+Mana Cost: {3}{B}
+Card Text: {B}: Gravedigger Shade gets +1/+1 until end of turn.
+Power/Toughness: 2/2
+Flavor Text: "The spirits of the sundered world know only hunger."
+
+Name: Tombstone Collector
+Rarity: Uncommon
+Card Type: Creature — Zombie Rogue
+Mana Cost: {1}{B}
+Card Text: Whenever a creature an opponent controls dies, put a +1/+1 counter on Tombstone Collector.
+Power/Toughness: 1/1
+Flavor Text: "The scavengers of the sundered world grow stronger with each passing day."
+
+Name: Withering Plague
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {4}{B}{B}
+Card Text: Destroy all creatures with power 4 or greater. They can't be regenerated.
+Flavor Text: "The sundered world unleashes a scourge upon the mighty."
+
+Name: Relic of Despair
+Rarity: Common
+Card Type: Artifact
+Mana Cost: {2}
+Card Text: {1}, {T}: Target player discards a card.
+Flavor Text: "The sundered world's remnants whisper of a time long gone."
+
+Name: Unraveling Specter
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {4}{B}
+Card Text: Flying, When Unraveling Specter enters the battlefield, each opponent discards two cards.
+Power/Toughness: 3/3
+Flavor Text: "The spirits of the sundered world torment the living with their despair."
+
+Name: Forsaken Lich
+Rarity: Mythic Rare
+Card Type: Creature — Zombie Wizard
+Mana Cost: {3}{B}{B}
+Card Text: Deathtouch, {B}, {T}: Return target creature card from your graveyard to the battlefield tapped.
+Power/Toughness: 2/2
+Flavor Text: "Bound by dark forces, they wield the power of the sundered world."
+
+Name: Dread Feaster
+Rarity: Rare
+Card Type: Creature — Demon
+Mana Cost: {5}{B}{B}
+Card Text: Flying, When Dread Feaster enters the battlefield, each opponent sacrifices a creature.
+Power/Toughness: 6/6
+Flavor Text: "The sundered world's horrors descend upon the weak."
+
+Name: Dark Ascension
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {1}{B}
+Card Text: Target creature gets +2/+0 and gains lifelink until end of turn.
+Flavor Text: "In the sundered world, the darkness embraces the ambitious."
+
+Name: Grisly Remains
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {2}{B}
+Card Text: Destroy target creature with converted mana cost 3 or less.
+Flavor Text: "The weak fall, their bodies joining the detritus of the sundered world."
+
+Name: Soul Siphon
+Rarity: Uncommon
+Card Type: Enchantment — Aura
+Mana Cost: {1}{B}
+Card Text: Enchant creature, At the beginning of your upkeep, enchanted creature's controller loses 1 life and you gain 1 life.
+Flavor Text: "The darkness drains the life from the unwary, fueling its power."
+
+Name: Fleshfeeder Ghoul
+Rarity: Common
+Card Type: Creature — Zombie
+Mana Cost: {3}{B}
+Card Text: {1}{B}, Sacrifice a creature: Fleshfeeder Ghoul gets +2/+2 until end of turn.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's undead consume their kin for strength."
+
+Name: Tormenting Apparition
+Rarity: Rare
+Card Type: Creature — Spirit
+Mana Cost: {2}{B}
+Card Text: Whenever Tormenting Apparition becomes blocked, defending player discards a card.
+Power/Toughness: 1/1
+Flavor Text: "The sundered world's spirits haunt the living, driving them mad."
+
+Name: Pit of Desolation
+Rarity: Common
+Card Type: Enchantment — Aura
+Mana Cost: {1}{B}
+Card Text: Enchant land, Enchanted land is a Swamp.
+Flavor Text: "The sundered world's once-fertile lands are now tainted by darkness."
+
+Name: Suffering's Embrace
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{B}
+Card Text: Target creature gets -2/-2 until end of turn. You gain 2 life.
+Flavor Text: "The sundered world's pain nourishes the wicked."
+
+Name: Unseen Stalker
+Rarity: Rare
+Card Type: Creature — Spirit Rogue
+Mana Cost: {3}{B}
+Card Text: Unseen Stalker can't be blocked. Whenever Unseen Stalker deals combat damage to a player, that player discards a card.
+Power/Toughness: 2/2
+Flavor Text: "In the sundered world, the shadows themselves come to life."
+
+Name: Crypt Rats
+Rarity: Mythic Rare
+Card Type: Creature — Rat
+Mana Cost: {1}{B}{B}
+Card Text: {X}{B}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+Power/Toughness: 1/1
+Flavor Text: "The vermin of the sundered world carry a deadly secret"
+
+Name: Desecrated Altar
+Rarity: Uncommon
+Card Type: Artifact
+Mana Cost: {3}
+Card Text: {2}, {T}, Sacrifice a creature: Draw a card.
+Flavor Text: "The sundered world's dark rituals demand a terrible price."
+
+Name: Shadowborn Apostle
+Rarity: Common
+Card Type: Creature — Human Cleric
+Mana Cost: {B}
+Card Text: A deck can have any number of cards named Shadowborn Apostle. {B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.
+Power/Toughness: 1/1
+Flavor Text: "In the sundered world, the faithful find solace in darkness."
+
+Name: Vampiric Scourge
+Rarity: Rare
+Card Type: Creature — Vampire
+Mana Cost: {2}{B}{B}
+Card Text: Flying, lifelink
+Power/Toughness: 3/3
+Flavor Text: "The sundered world's bloodsuckers thrive on the chaos."
+
+Name: Soulrender
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {4}{B}{B}
+Card Text: Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller loses 1 life and you gain 1 life.
+Flavor Text: "The sundered world's cataclysm consumes both the living and the dead."
+
+Name: Abyssal Dreadnought
+Rarity: Rare
+Card Type: Creature — Horror
+Mana Cost: {5}{B}
+Card Text: Whenever Abyssal Dreadnought attacks, defending player sacrifices a creature. If they do, Abyssal Dreadnought gets +X/+X until end of turn, where X is the sacrificed creature's power.
+Power/Toughness: 4/4
+Flavor Text: "The sundered world's abominations know only hunger and destruction."

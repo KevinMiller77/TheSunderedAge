@@ -1,0 +1,339 @@
+Name: Scorching Sands
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {1}{R}
+Card Text: Scorching Sands deals 2 damage to target creature. That creature can't block this turn.
+Flavor Text: "The sundered world's deserts burn with the fires of a dying age."
+
+Name: Emberwielder
+Rarity: Common
+Card Type: Creature — Human Shaman
+Mana Cost: {2}{R}
+Card Text: {1}{R}, {T}: Emberwielder deals 1 damage to any target.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's survivors master the primal forces that remain."
+
+Name: Molten Rebirth
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {3}{R}
+Card Text: Return target creature card from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.
+Flavor Text: "The sundered world's flames give life as well as take it."
+
+Name: Relentless Berserker
+Rarity: Common
+Card Type: Creature — Human Warrior
+Mana Cost: {2}{R}
+Card Text: Haste
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's warriors fight with a rage born of despair."
+
+Name: Pyroclastic Flow
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {1}{R}
+Card Text: Pyroclastic Flow deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+Flavor Text: "The sundered world's eruptions reduce all in their path to ash."
+
+Name: Furyborn Phoenix
+Rarity: Mythic Rare
+Card Type: Creature — Phoenix
+Mana Cost: {3}{R}{R}
+Card Text: Flying, Haste, When Furyborn Phoenix dies, return it to the battlefield under its owner's control at the beginning of the next end step.
+Power/Toughness: 4/3
+Flavor Text: "The sundered world's flames birth creatures of unimaginable power."
+
+Name: Reckless Assault
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{R}
+Card Text: Target creature gets +3/+0 and gains first strike until end of turn.
+Flavor Text: "The sundered world's battles are won by those who dare to strike first."
+
+Name: Volcanic Tremors
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {X}{R}{R}
+Card Text: Volcanic Tremors deals X damage to each creature without flying and each player.
+Flavor Text: "The sundered world's instability unleashes devastating power."
+
+Name: Shardstorm Elemental
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {4}{R}{R}
+Card Text: Trample, Whenever Shardstorm Elemental becomes the target of a spell or ability, it deals 3 damage to that spell or ability's controller.
+Power/Toughness: 6/4
+Flavor Text: "The sundered world's fury incarnate, unstoppable and unyielding."
+
+Name: Raging Wastes
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{R}
+Card Text: Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature.
+Flavor Text: "The sundered world's unending strife fuels a cycle of destruction."
+
+Name: Cataclysmic Eruption
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {4}{R}
+Card Text: Cataclysmic Eruption deals 3 damage to target creature and 1 damage to each other creature.
+Flavor Text: "The sundered world's upheaval sets off a chain reaction of devastation."
+
+Name: Frenzied Marauder
+Rarity: Uncommon
+Card Type: Creature — Human Berserker
+Mana Cost: {3}{R}
+Card Text: Haste, Whenever Frenzied Marauder attacks, it gets +1/+0 until end of turn for each other attacking creature.
+Power/Toughness: 2/2
+Flavor Text: "The sundered world's chaos feeds the fury of those who fight to survive."
+
+Name: Shattered Summit
+Rarity: Rare
+Card Type: Land
+Card Text: {T}: Add {R}. {T}, Sacrifice Shattered Summit: Add {R}{R}{R}.
+Flavor Text: "The sundered world's peaks now hold only the promise of destruction."
+
+Name: Fiery Reclamation
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{R}{R}
+Card Text: Whenever a creature you control dies, Fiery Reclamation deals damage equal to that creature's power to any target.
+Flavor Text: "The sundered world's fallen are consumed by the flames they once commanded."
+
+Name: Sundered Goblin
+Rarity: Common
+Card Type: Creature — Goblin
+Mana Cost: {1}{R}
+Card Text: {1}{R}, {T}, Sacrifice Sundered Goblin: Sundered Goblin deals 2 damage to target creature or planeswalker.
+Power/Toughness: 1/1
+Flavor Text: "The sundered world's survivors find strength in their tenacity."
+
+Name: Molten Disruption
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {1}{R}
+Card Text: Target creature gets +3/-3 until end of turn.
+Flavor Text: "The sundered world's energies twist and warp those caught in their path."
+
+Name: Crumbling Titan
+Rarity: Rare
+Card Type: Creature — Giant
+Mana Cost: {5}{R}
+Card Text: Trample, At the beginning of your upkeep, sacrifice a land. If you can't, sacrifice Crumbling Titan.
+Power/Toughness: 7/5
+Flavor Text: "The sundered world's broken landscape gives rise to terrifying behemoths."
+
+Name: Searing Soulfire
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {X}{R}{R}
+Card Text: Searing Soulfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+Flavor Text: "The sundered world's fires burn away all that once was."
+
+Name: Unstable Pyromancer
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{R}
+Card Text: {R}, {T}: Unstable Pyromancer deals 1 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+Power/Toughness: 1/3
+Flavor Text: "The sundered world's mages draw upon volatile energies to wield destructive power."
+
+Name: Ashen Strider
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {3}{R}
+Card Text: Haste, When Ashen Strider enters the battlefield, it deals 1 damage to each opponent.
+Power/Toughness: 3/2
+Flavor Text: "The sundered world's searing heat breathes life into creatures of ash and flame."
+
+Name: Blazing Reprisal
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{R}
+Card Text: Blazing Reprisal deals 3 damage to target creature. If that creature dealt damage to you this turn, it deals 5 damage instead.
+Flavor Text: "The sundered world's survivors know that vengeance is a powerful motivator."
+
+Name: Warped Terrain
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {3}{R}
+Card Text: Whenever a land enters the battlefield under an opponent's control, Warped Terrain deals 2 damage to that player.
+Flavor Text: "The sundered world's twisted landscape punishes those who dare to tread upon it."
+
+Name: Scavenging Hellion
+Rarity: Mythic Rare
+Card Type: Creature — Hellion
+Mana Cost: {4}{R}{R}
+Card Text: Haste, When Scavenging Hellion enters the battlefield, you may exile any number of creature cards from your graveyard. Scavenging Hellion gets +1/+1 for each card exiled this way.
+Power/Toughness: 4/4
+Flavor Text: "The sundered world's predators feast upon the remnants of a dying age."
+
+Name: Emberstorm Drake
+Rarity: Common
+Card Type: Creature — Drake
+Mana Cost: {4}{R}
+Card Text: Flying
+Power/Toughness: 3/3
+Flavor Text: "The sundered world's skies are home to fire-breathing remnants of a time long past."
+
+Name: Relic of the Sundered
+Rarity: Uncommon
+Card Type: Artifact
+Mana Cost: {2}
+Card Text: {2}, {T}: Target creature gets +1/+0 and gains first strike until end of turn.
+Flavor Text: "The sundered world's relics grant power to those who can wield them."
+
+Name: Seething Outburst
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {X}{R}
+Card Text: Seething Outburst deals X damage to target creature or planeswalker. If a creature dealt damage this way would die this turn, exile it instead.
+Flavor Text: "The sundered world's uncontrolled energies erupt with devastating force."
+
+Name: Frenetic Hellkite
+Rarity: Mythic Rare
+Card Type: Creature — Dragon
+Mana Cost: {4}{R}{R}
+Card Text: Flying, Haste, Whenever Frenetic Hellkite attacks, it deals 2 damage to any target.
+Power/Toughness: 4/4
+Flavor Text: "The sundered world's dragons hunt with a ferocity born of the cataclysm."
+
+Name: Searing Vortex
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {3}{R}
+Card Text: Searing Vortex deals 4 damage to target player or planeswalker.
+Flavor Text: "The sundered world's swirling energies unleash torrents of fire upon those who stand against them."
+
+Name: Smoldering Behemoth
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {5}{R}
+Card Text: Trample
+Power/Toughness: 6/4
+Flavor Text: "Born from the embers of a dying world, it tramples all in its path."
+
+Name: Pyroclastic Burst
+Rarity: Common
+Card Type: Instant
+Mana Cost: {1}{R}
+Card Text: Pyroclastic Burst deals 2 damage to target creature or planeswalker.
+Flavor Text: "A single spark can set the world ablaze."
+
+Name: Cinderborn Wraith
+Rarity: Rare
+Card Type: Creature — Spirit
+Mana Cost: {3}{R}
+Card Text: Whenever Cinderborn Wraith deals combat damage to a player, you may cast an instant or sorcery card from your graveyard without paying its mana cost. If you do, exile it.
+Power/Toughness: 3/3
+Flavor Text: "Eternally seeking vengeance, it harnesses the chaos to fuel its power."
+
+Name: Unyielding Flame
+Rarity: Mythic Rare
+Card Type: Enchantment
+Mana Cost: {2}{R}
+Card Text: At the beginning of your upkeep, if you control a red planeswalker, Unyielding Flame deals 2 damage to each opponent.
+Flavor Text: "The indomitable spirit of the pyromancers lives on."
+
+Name: Reckless Instigator
+Rarity: Common
+Card Type: Creature — Human Warrior
+Mana Cost: {2}{R}
+Card Text: Haste
+Power/Toughness: 3/1
+Flavor Text: "Impulsive and fearless, they charge headlong into battle."
+
+Name: Sundered Inferno
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {X}{R}
+Card Text: Sundered Inferno deals X damage to each of up to X targets.
+Flavor Text: "A cataclysmic force, unleashed and uncontrollable."
+
+Name: Havoc Bringer
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {3}{R}{R}
+Card Text: Haste, When Havoc Bringer enters the battlefield, it deals 3 damage to target creature or planeswalker an opponent controls.
+Power/Toughness: 4/3
+Flavor Text: "A manifestation of rage, it leaves only destruction in its wake."
+
+Name: Blazing Ascension
+Rarity: Mythic Rare
+Card Type: Sorcery
+Mana Cost: {4}{R}
+Card Text: Create a 4/4 red Dragon creature token with flying and haste. Exile it at the beginning of the next end step.
+Flavor Text: "From the ashes, a dragon's fire is reborn."
+
+Name: Ignition Spark
+Rarity: Common
+Card Type: Instant
+Mana Cost: {R}
+Card Text: Ignition Spark deals 1 damage to target creature. If that creature is an artifact, it deals 3 damage instead.
+Flavor Text: "Even the smallest spark can be the end of a machine's existence."
+
+Name: Wildfire Elemental
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {4}{R}
+Card Text: Whenever you cast a red spell, Wildfire Elemental deals 1 damage to each opponent.
+Power/Toughness: 4/3
+Flavor Text: "A force of nature, it thrives on the chaos that engulfs the shattered world."
+
+Name: Molten Rebirth
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {1}{R}
+Card Text: As an additional cost to cast this spell, sacrifice a creature. Create a token that's a copy of the sacrificed creature, except it's an Elemental in addition to its other types and has haste. Exile it at the beginning of the next end step.
+Flavor Text: "A fiery rebirth in the heart of the chaos."
+
+Name: Relentless Onslaught
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{R}
+Card Text: Target creature gets +3/+0 and gains first strike until end of turn.
+Flavor Text: "In the midst of destruction, the fire of determination burns hotter."
+
+Name: Pyromancer's Grit
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {2}{R}
+Card Text: Whenever you cast a red spell, you may have target creature you control get +1/+0 until end of turn.
+Flavor Text: "With the world in chaos, the pyromancers' determination only grows stronger."
+
+Name: Emberwrought Phoenix
+Rarity: Mythic Rare
+Card Type: Creature — Phoenix
+Mana Cost: {3}{R}{R}
+Card Text: Flying, When Emberwrought Phoenix dies, return it to the battlefield at the beginning of the next end step. If you cast a red spell this turn, Emberwrought Phoenix enters the battlefield with two +1/+1 counters on it.
+Power/Toughness: 3/2
+Flavor Text: "The fires of rebirth burn eternal."
+
+Name: Flameborn Instigator
+Rarity: Common
+Card Type: Creature — Human Shaman
+Mana Cost: {1}{R}
+Card Text: {T}, Sacrifice Flameborn Instigator: It deals 1 damage to target creature or player.
+Power/Toughness: 1/1
+Flavor Text: "Their wills burn with the fury of the sundered world."
+
+Name: Eruption of Fury
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {3}{R}
+Card Text: Eruption of Fury deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+Flavor Text: "The earth trembles, and fire rains from the sky."
+
+Name: Rage of the Sundered
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {1}{R}
+Card Text: Whenever a creature you control attacks, it gets +1/+0 until end of turn.
+Flavor Text: "Driven by anger, the survivors fight with unmatched ferocity."
+
+Name: Scorching Lash
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{R}
+Card Text: Scorching Lash deals 3 damage to target attacking or blocking creature.
+Flavor Text: "A whip of fire, searing the unworthy."
