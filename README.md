@@ -23,7 +23,13 @@ Card Type Ratios:
 - Sorceries: ~10%
 - Enchantments: ~7%
 - Artifacts: ~7%
+- Lands ~4%
 - Planeswalkers: ~3%
+
+### Lands (20 Cards)
+- Mono-Colored U/R: 10 Cards
+- Dual-Colored U/R: 5 Cards
+- Colorless U/R: 5 Cards
 ### Mono-Colored & Colorless Distributions (250 cards)
 
 Color Ratios: For each color, a mix of low, medium, and high-cost cards, with a balance favoring lower to mid-cost cards.
@@ -35,7 +41,6 @@ Outline:
 - Red: 46 cards (28 creatures, 7 instants, 5 sorceries, 3 enchantments, 1 artifact, 2 planeswalkers)
 - Green: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
 - Colorless: 20 cards (10 artifacts, 2 artifact creatures, 2 lands, 6 other colorless cards, such as Eldrazi)
-
 
 ### Multi-Colored Cards (100)
 - Dual-color (60 cards): 6 cards for each of the 10 color combinations
