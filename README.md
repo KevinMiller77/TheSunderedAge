@@ -12,42 +12,42 @@ Long ago, the plane of Eltaria was a thriving world filled with powerful magic a
 
 ### Overall Distributions
 Rarity Distribution:
-    	Common: 40%
-    	Uncommon: 30%
-    	Rare: 20%
-    	Mythic Rare: 10%
+- Common: 40%
+- Uncommon: 30%
+- Rare: 20%
+- Mythic Rare: 10%
 
 Card Type Ratios:
-    	Creatures: ~58%
-    	Instants: ~15%
-    	Sorceries: ~10%
-    	Enchantments: ~7%
-    	Artifacts: ~7%
-    	Planeswalkers: ~3%
+- Creatures: ~58%
+- Instants: ~15%
+- Sorceries: ~10%
+- Enchantments: ~7%
+- Artifacts: ~7%
+- Planeswalkers: ~3%
 ### Mono-Colored & Colorless Distributions (250 cards)
 
 Color Ratios: For each color, a mix of low, medium, and high-cost cards, with a balance favoring lower to mid-cost cards.
 
 Outline:
-	White: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
-	Blue: 46 cards (28 creatures, 7 instants, 5 sorceries, 3 enchantments, 2 artifacts, 1 planeswalker)
-	Black: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
-	Red: 46 cards (28 creatures, 7 instants, 5 sorceries, 3 enchantments, 1 artifact, 2 planeswalkers)
-	Green: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
-	Colorless: 20 cards (10 artifacts, 2 artifact creatures, 2 lands, 6 other colorless cards, such as Eldrazi)
+- White: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
+- Blue: 46 cards (28 creatures, 7 instants, 5 sorceries, 3 enchantments, 2 artifacts, 1 planeswalker)
+- Black: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
+- Red: 46 cards (28 creatures, 7 instants, 5 sorceries, 3 enchantments, 1 artifact, 2 planeswalkers)
+- Green: 46 cards (28 creatures, 7 instants, 4 sorceries, 4 enchantments, 2 artifacts, 1 planeswalker)
+- Colorless: 20 cards (10 artifacts, 2 artifact creatures, 2 lands, 6 other colorless cards, such as Eldrazi)
 
 
 ### Multi-Colored Cards (100)
-    Dual-color (60 cards): 6 cards for each of the 10 color combinations
-    Shard/Wedge (30 cards): 3 cards for each of the 10 three-color combinations
-    Four-color (10 cards): 1 card for each of the 5 Nephilim color combinations
+- Dual-color (60 cards): 6 cards for each of the 10 color combinations
+- Shard/Wedge (30 cards): 3 cards for each of the 10 three-color combinations
+- Four-color (10 cards): 1 card for each of the 5 Nephilim color combinations
 
 ### Legendary Cards (60 cards)
-    Mono-color (35 cards): 6-8 legendary cards for each of the 5 colors
-    Dual-color (20 cards): 2 legendary cards for each of the 10 color combinations
-    Shard/Wedge (5 cards): 1 legendary card for 5 of the 10 three-color combinations
+- Mono-color (35 cards): 6-8 legendary cards for each of the 5 colors
+- Dual-color (20 cards): 2 legendary cards for each of the 10 color combinations
+- Shard/Wedge (5 cards): 1 legendary card for 5 of the 10 three-color combinations
 
 ### Planeswalkers (20 cards)
-    Mono-color (5 cards): 1 planeswalker for each of the 5 colors
-    Dual-color (10 cards): 1 planeswalker for each of the 10 color combinations
-    Shard/Wedge (5 cards): 1 planeswalker for 5 of the 10 three-color combinations
+- Mono-color (5 cards): 1 planeswalker for each of the 5 colors
+- Dual-color (10 cards): 1 planeswalker for each of the 10 color combinations
+- Shard/Wedge (5 cards): 1 planeswalker for 5 of the 10 three-color combinations
