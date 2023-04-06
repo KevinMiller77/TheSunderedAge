@@ -1,97 +1,97 @@
 Name: Tranquil Meadow
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {W}. {T}, Pay 1 life: Add {W}{W}. Activate this ability only if you control two or more white permanents.
+Card Text: " {T}: Add {W}. {T}, Pay 1 life: Add {W}{W}. Activate this ability only if you control two or more white permanents."
 
 Name: Crumbling Mountain
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {R}. {T}, Pay 1 life: Add {R}{R}. Activate this ability only if you control two or more red permanents.
+Card Text: " {T}: Add {R}. {T}, Pay 1 life: Add {R}{R}. Activate this ability only if you control two or more red permanents."
 
 Name: Sunken Ruins
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {U}. {T}, Pay 1 life: Add {U}{U}. Activate this ability only if you control two or more blue permanents.
+Card Text: " {T}: Add {U}. {T}, Pay 1 life: Add {U}{U}. Activate this ability only if you control two or more blue permanents."
 
 Name: Fertile Grove
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {G}. {T}, Pay 1 life: Add {G}{G}. Activate this ability only if you control two or more green permanents.
+Card Text: " {T}: Add {G}. {T}, Pay 1 life: Add {G}{G}. Activate this ability only if you control two or more green permanents."
 
 Name: Shadowed Crypt
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {B}. {T}, Pay 1 life: Add {B}{B}. Activate this ability only if you control two or more black permanents.
+Card Text: " {T}: Add {B}. {T}, Pay 1 life: Add {B}{B}. Activate this ability only if you control two or more black permanents."
 
 Name: Forsaken Shrine
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {W}. {T}, Sacrifice Forsaken Shrine: Add {W}{W}{W}. Activate this ability only if you control a legendary white permanent.
+Card Text: " {T}: Add {W}. {T}, Sacrifice Forsaken Shrine: Add {W}{W}{W}. Activate this ability only if you control a legendary white permanent."
 
 Name: Infernal Caldera
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {R}. {T}, Sacrifice Infernal Caldera: Add {R}{R}{R}. Activate this ability only if you control a legendary red permanent.
+Card Text: " {T}: Add {R}. {T}, Sacrifice Infernal Caldera: Add {R}{R}{R}. Activate this ability only if you control a legendary red permanent."
 
 Name: Submerged Labyrinth
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {U}. {T}, Sacrifice Submerged Labyrinth: Add {U}{U}{U}. Activate this ability only if you control a legendary blue permanent.
+Card Text: " {T}: Add {U}. {T}, Sacrifice Submerged Labyrinth: Add {U}{U}{U}. Activate this ability only if you control a legendary blue permanent."
 
 Name: Overgrown Tomb
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {G}. {T}, Sacrifice Overgrown Tomb: Add {G}{G}{G}. Activate this ability only if you control a legendary green permanent.
+Card Text: " {T}: Add {G}. {T}, Sacrifice Overgrown Tomb: Add {G}{G}{G}. Activate this ability only if you control a legendary green permanent."
 
 Name: Haunted Catacombs
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {B}. {T}, Sacrifice Haunted Catacombs: Add {B}{B}{B}. Activate this ability only if you control a legendary black permanent.
+Card Text: " {T}: Add {B}. {T}, Sacrifice Haunted Catacombs: Add {B}{B}{B}. Activate this ability only if you control a legendary black permanent."
 
 Name: Blazing Cliffs
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {R}. {T}: Add {W}. Blazing Cliffs deals 1 damage to you.
+Card Text: " {T}: Add {R}. {T}: Add {W}. Blazing Cliffs deals 1 damage to you."
 
 Name: Sapphire Cove
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {U}. {T}: Add {G}. Sapphire Cove deals 1 damage to you.
+Card Text: " {T}: Add {U}. {T}: Add {G}. Sapphire Cove deals 1 damage to you."
 
 Name: Sunlit Forest
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {G}. {T}: Add {W}. Sunlit Forest deals 1 damage to you.
+Card Text: " {T}: Add {G}. {T}: Add {W}. Sunlit Forest deals 1 damage to you."
 
 Name: Whispering Depths
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {U}. {T}: Add {B}. Whispering Depths deals 1 damage to you.
+Card Text: " {T}: Add {U}. {T}: Add {B}. Whispering Depths deals 1 damage to you."
 
 Name: Shadowed Marsh
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {B}. {T}: Add {R}. Shadowed Marsh deals 1 damage to you.
+Card Text: " {T}: Add {B}. {T}: Add {R}. Shadowed Marsh deals 1 damage to you."
 
 Name: Crystal Quarry
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {C}. {4}, {T}: Add {W}{U}{B}{R}{G}.
+Card Text: " {T}: Add {C}. {4}, {T}: Add {W}{U}{B}{R}{G}."
 
 Name: Eldrazi Temple
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {C}. {T}: Add {C}{C}. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.
+Card Text: " {T}: Add {C}. {T}: Add {C}{C}. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi."
 
 Name: Reliquary Tower
 Rarity: Rare
 Card Type: Land
-Card Text: {T}: Add {C}. You have no maximum hand size.
+Card Text: " {T}: Add {C}. You have no maximum hand size."
 
 Name: Mage-Ring Network
 Rarity: Uncommon
 Card Type: Land
-Card Text: {T}: Add {C}. {1}, {T}: Put a storage counter on Mage-Ring Network. {T}, Remove X storage counters from Mage-Ring Network: Add {C} for each storage counter removed this way.
+Card Text: " {T}: Add {C}. {1}, {T}: Put a storage counter on Mage-Ring Network. {T}, Remove X storage counters from Mage-Ring Network: Add {C} for each storage counter removed this way."
 
 Name: Ghost Quarter
 Rarity: Uncommon
