@@ -1,5 +1,5 @@
-filepath = "Lands/"
-fileName = "The Sundered Age - Lands.yml"
+filepath = "MultiColored/"
+fileName = "The Sundered Age - MultiColored.yml"
 file = open(filepath + fileName)
 fileLines = file.readlines()
 

@@ -6,7 +6,7 @@ import LoadingIcons from 'react-loading-icons'
 
 const configuration = new Configuration({
     organization: "org-t7CUSY8puQFgDGaesnEnJJ3w",
-    apiKey: "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",
+    apiKey: "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",
 });
 let openApi = new OpenAIApi(configuration)
 
@@ -155,7 +155,7 @@ export class ImageSelectorComponent extends Component<ImageSelectorProps, ImageS
                 size: "512x512",
                 response_format: "b64_json"
             }
-        ).then( (value: any) => {
+        ).then((value: any) => {
             let body = value.data as ImagesResponse;
             this.evt_EndWorking(() => {
                 this.evt_setImages(body.data)
