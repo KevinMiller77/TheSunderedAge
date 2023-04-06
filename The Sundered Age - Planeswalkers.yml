@@ -1,1 +1,199 @@
-# TODO
+Name: Eryka, Light of Hope
+Rarity: Mythic Rare
+Mana Cost: {2}{W}{W}
+Type: Planeswalker — Eryka
+Loyalty: 4
+Abilities:
++1: Create a 1/1 white Human Soldier creature token with vigilance.
+-2: Exile target enchantment.
+-7: You get an emblem with "Creatures you control have double strike, vigilance, and lifelink."
+
+Name: Xanar, Mind Weaver
+Rarity: Mythic Rare
+Mana Cost: {3}{U}{U}
+Type: Planeswalker — Xanar
+Loyalty: 5
+Abilities:
++1: Scry 2, then draw a card.
+-2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+-8: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."
+
+Name: Lilith, Shadowborn
+Rarity: Mythic Rare
+Mana Cost: {3}{B}{B}
+Type: Planeswalker — Lilith
+Loyalty: 4
+Abilities:
++1: Each player sacrifices a creature.
+-3: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+-8: You get an emblem with "At the beginning of your upkeep, each opponent sacrifices a creature and loses life equal to its power."
+
+Name: Keldor, Flame's Fury
+Rarity: Mythic Rare
+Mana Cost: {2}{R}{R}
+Type: Planeswalker — Keldor
+Loyalty: 3
+Abilities:
++1: Keldor, Flame's Fury deals 2 damage to any target.
+-2: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
+-7: You get an emblem with "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
+
+Name: Nissa, World Mender
+Rarity: Mythic Rare
+Mana Cost: {2}{G}{G}
+Type: Planeswalker — Nissa
+Loyalty: 4
+Abilities:
++1: Untap target land you control. It becomes a 3/3 Elemental creature with haste until your next turn. It's still a land.
+-3: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest on the bottom of your library in any order.
+-8: You get an emblem with "Whenever a land enters the battlefield under your control, you may draw a card."
+
+Name: Tera, Ruin's Voice
+Rarity: Mythic Rare
+Mana Cost: {2}{W}{U}
+Type: Planeswalker — Tera
+Loyalty: 4
+Abilities:
++1: Create a 2/2 white and blue Bird creature token with flying.
+-2: Exile target creature. Its controller creates a 1/1 white and blue Bird creature token with flying.
+-6: Take an extra turn after this one. Exile Tera, Ruin's Voice.
+
+Name: Zephyr, Elemental's Call
+Rarity: Mythic Rare
+Mana Cost: {4}{U}{B}
+Type: Planeswalker — Zephyr
+Loyalty: 5
+Abilities:
++1: Target player mills three cards.
+-3: Create a token that's a copy of target creature card in a graveyard, except it's a blue and black Elemental in addition to its other colors and types.
+-8: Return all nonland permanents to their owners' hands. Draw a card for each permanent returned to your hand this way.
+
+Name: Grath, Soul Conduit
+Rarity: Mythic Rare
+Mana Cost: {2}{B}{R}
+Type: Planeswalker — Grath
+Loyalty: 4
+Abilities:
++1: Grath, Soul Conduit deals 1 damage to each opponent. You gain life equal to the damage dealt this way.
+-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+-7: Destroy all creatures. They can't be regenerated. Each player loses life equal to the number of creatures they controlled that were destroyed this way.
+
+Name: Freya, Wildspeaker
+Rarity: Mythic Rare
+Mana Cost: {3}{R}{G}
+Type: Planeswalker — Freya
+Loyalty: 4
+Abilities:
++1: Add {R}{G}. You may put a creature card with mana value 3 or less from your hand onto the battlefield.
+-3: Freya, Wildspeaker deals 3 damage to target creature or planeswalker.
+-6: Search your library for up to two creature cards, put them onto the battlefield, then shuffle your library.
+
+Name: Serenia, Nature's Balance
+Rarity: Mythic Rare
+Mana Cost: {4}{G}{W}
+Type: Planeswalker — Serenia
+Loyalty: 5
+Abilities:
++1: Create a 3/3 green and white Elemental creature token with trample.
+-2: You gain life equal to the greatest power among creatures you control.
+-8: Destroy all other permanents except for lands. You gain 2 life for each permanent destroyed this way.
+
+Name: Vis, Reality Weaver
+Rarity: Mythic Rare
+Mana Cost: {3}{W}{B}
+Type: Planeswalker — Vis
+Loyalty: 4
+Abilities:
++1: Exile target creature you control, then return it to the battlefield under its owner's control.
+-2: Target opponent sacrifices a creature. You gain life equal to that creature's toughness.
+-7: You get an emblem with "Whenever a creature enters the battlefield under your control, you may exile target nonland permanent."
+
+Name: Ixara, Temporal Adept
+Rarity: Mythic Rare
+Mana Cost: {1}{U}{R}
+Type: Planeswalker — Ixara
+Loyalty: 3
+Abilities:
++1: Scry 1, then draw a card. Discard a card at random.
+-2: Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+-5: You get an emblem with "Whenever you cast an instant or sorcery spell, you may copy it. You may choose new targets for the copy."
+
+Name: Kharos, Death's Whisper
+Rarity: Mythic Rare
+Mana Cost: {4}{B}{G}
+Type: Planeswalker — Kharos
+Loyalty: 5
+Abilities:
++1: Each player mills three cards. You gain 1 life for each creature card milled this way.
+-3: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+-7: You get an emblem with "At the beginning of your upkeep, you may return a creature card from a graveyard to the battlefield under your control."
+
+Name: Pyros, Flamespeaker
+Rarity: Mythic Rare
+Mana Cost: {2}{R}{W}
+Type: Planeswalker — Pyros
+Loyalty: 4
+Abilities:
++1: Pyros, Flamespeaker deals 2 damage to any target.
+-2: Target creature gains double strike until end of turn.
+-7: Create three 3/1 red and white Elemental creature tokens with haste, lifelink, and trample. Exile them at the beginning of the next end step.
+
+Name: Elira, Growth's Herald
+Rarity: Mythic Rare
+Mana Cost: {3}{G}{U}
+Type: Planeswalker — Elira
+Loyalty: 4
+Abilities:
++1: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+-2: Put a +1/+1 counter on each creature you control.
+-6: You get an emblem with "Whenever a creature enters the battlefield under your control, draw a card."
+
+Name: Yelina, Architect of Unity
+Rarity: Mythic Rare
+Mana Cost: {2}{W}{U}{B}
+Type: Planeswalker — Yelina
+Loyalty: 4
+Abilities:
++1: Create a 1/1 white, blue, and black Human Cleric creature token with lifelink.
+-2: Exile target nonland permanent with mana value 3 or less.
+-7: Gain control of all creatures your opponents control until end of turn. Untap them. They gain haste until end of turn.
+
+Name: Varik, Stormchaser
+Rarity: Mythic Rare
+Mana Cost: {1}{U}{B}{R}
+Type: Planeswalker — Varik
+Loyalty: 3
+Abilities:
++1: Draw a card, then discard a card. Varik, Stormchaser deals damage to any target equal to the discarded card's mana value.
+-2: Return target creature to its owner's hand. That player discards a card.
+-6: Each opponent loses life equal to the total mana value of all nonland cards in their hand.
+
+Name: Thalia, Heart of the Wilds
+Rarity: Mythic Rare
+Mana Cost: {2}{B}{R}{G}
+Type: Planeswalker — Thalia
+Loyalty: 5
+Abilities:
++1: Target creature you control gains haste and trample until end of turn. Put a +1/+1 counter on it.
+-3: Destroy target creature. If that creature was an artifact or enchantment, Thalia, Heart of the Wilds deals 3 damage to any target.
+-8: Target creature gets +10/+10 and gains trample and indestructible until end of turn.
+
+Name: Aria, Sun's Radiance
+Rarity: Mythic Rare
+Mana Cost: {2}{R}{G}{W}
+Type: Planeswalker — Aria
+Loyalty: 4
+Abilities:
++1: Create a 2/2 red, green, and white Elemental creature token with haste. Exile it at the beginning of the next end step.
+-2: Put a +1/+1 counter on each creature you control.
+-7: You gain life equal to the total power of creatures you control. Then, creatures you control gain indestructible until your next turn.
+
+Name: Zephyr, Dreamshaper
+Rarity: Mythic Rare
+Mana Cost: {2}{G}{W}{U}
+Type: Planeswalker — Zephyr
+Loyalty: 4
+Abilities:
++1: Scry 2, then draw a card.
+-2: Tap up to two target creatures. They don't untap during their controller's next untap step.
+-8: Exile all other permanents. Draw a card for each permanent exiled this way.

@@ -1,1 +1,510 @@
-# TODO
+Name: Darius, Defender of the Lost
+Rarity: Rare
+Mana Cost: {2}{W}{W}
+Type: Legendary Creature — Human Soldier
+Power/Toughness: 3/4
+Abilities:
+Vigilance
+Whenever Darius, Defender of the Lost attacks, create a 1/1 white Human Soldier creature token that's tapped and attacking.
+Whenever a creature you control dies, gain 1 life.
+
+Name: Tylara, Rootweaver Druid
+Rarity: Rare
+Mana Cost: {1}{G}{G}
+Type: Legendary Creature — Elf Druid
+Power/Toughness: 2/2
+Abilities:
+{T}: Add {G}{G}.
+Whenever you cast a creature spell, you may pay {G}. If you do, put a +1/+1 counter on Tylara, Rootweaver Druid.
+
+Name: Xanor, Void Touched
+Rarity: Mythic Rare
+Mana Cost: {3}{B}{B}
+Type: Legendary Creature — Vampire Warlock
+Power/Toughness: 4/4
+Abilities:
+Flying, lifelink
+Whenever you cast a spell, each opponent loses 1 life and you gain 1 life.
+
+Name: Thormir, Elemental Fury
+Rarity: Rare
+Mana Cost: {3}{R}{R}
+Type: Legendary Creature — Elemental Shaman
+Power/Toughness: 4/4
+Abilities:
+Haste
+Whenever Thormir, Elemental Fury deals combat damage to a player, it deals that much damage to each creature that player controls.
+
+Name: Nalira, the Mind Weaver
+Rarity: Mythic Rare
+Mana Cost: {2}{U}{U}
+Type: Legendary Creature — Human Wizard
+Power/Toughness: 2/3
+Abilities:
+Whenever you draw a card, you may tap or untap target nonland permanent.
+Whenever you cast an instant or sorcery spell, scry 1.
+
+Name: Citadel of the Sundered
+Rarity: Rare
+Mana Cost: {3}
+Type: Legendary Artifact
+Abilities:
+{T}: Add one mana of any color.
+{5}, {T}, Sacrifice Citadel of the Sundered: Draw a card for each color among permanents you control.
+
+Name: Selene, the Night's Embrace
+Rarity: Uncommon
+Mana Cost: {1}{W}{W}
+Type: Legendary Enchantment — Aura
+Abilities:
+Enchant creature
+Enchanted creature gets +1/+1 and has vigilance.
+As long as you control a legendary creature, enchanted creature gets an additional +1/+1 and has first strike.
+
+Name: Ghoran, Beastcaller Shaman
+Rarity: Uncommon
+Mana Cost: {2}{G}{G}
+Type: Legendary Creature — Elf Shaman
+Power/Toughness: 3/3
+Abilities:
+{T}: Add one mana of any color. Use this mana only to cast creature spells.
+{G}{G}, {T}: Look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Name: Rika, the Shadow's Edge
+Rarity: Rare
+Mana Cost: {2}{B}{B}
+Type: Legendary Creature — Human Rogue
+Power/Toughness: 3/3
+Abilities:
+Deathtouch
+Whenever Rika, the Shadow's Edge deals combat damage to a player, that player discards a card.
+{1}{B}, {T}: Target creature gets -1/-1 until end of turn.
+
+Name: Auron, Radiant Dawnbringer
+Rarity: Rare
+Mana Cost: {3}{W}{W}
+Type: Legendary Creature — Angel
+Power/Toughness: 4/4
+Abilities:
+Flying, Vigilance
+Whenever you gain life, put a +1/+1 counter on each creature you control.
+
+Name: Varrus, Wildheart Chieftain
+Rarity: Uncommon
+Mana Cost: {2}{G}{G}
+Type: Legendary Creature — Elf Warrior
+Power/Toughness: 3/3
+Abilities:
+Trample
+Whenever Varrus, Wildheart Chieftain attacks, put a +1/+1 counter on each attacking creature you control.
+
+Name: Kallista, Storm's Fury
+Rarity: Mythic Rare
+Mana Cost: {2}{U}{U}
+Type: Legendary Creature — Human Wizard
+Power/Toughness: 2/2
+Abilities:
+Flash
+When Kallista, Storm's Fury enters the battlefield, return target nonland permanent to its owner's hand.
+Whenever you cast an instant or sorcery spell, Kallista gets +1/+1 until end of turn.
+
+Name: Gavrik, Flameforged
+Rarity: Rare
+Mana Cost: {2}{R}{R}
+Type: Legendary Creature — Dwarf Artificer
+Power/Toughness: 2/2
+Abilities:
+Whenever you cast an artifact spell, Gavrik, Flameforged deals 2 damage to any target.
+{1}{R}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Name: Drezna, Soulreaper
+Rarity: Mythic Rare
+Mana Cost: {3}{B}{B}
+Type: Legendary Creature — Vampire Cleric
+Power/Toughness: 4/4
+Abilities:
+Lifelink
+Whenever Drezna, Soulreaper deals combat damage to a player, that player sacrifices a creature.
+
+Name: Telaris, the Time Weaver
+Rarity: Rare
+Mana Cost: {3}{U}{U}
+Type: Legendary Creature — Human Wizard
+Power/Toughness: 3/3
+Abilities:
+Whenever you cast an instant or sorcery spell, scry 1.
+{2}{U}, {T}: Return target instant or sorcery card from your graveyard to your hand.
+
+Name: Ysara, Nature's Herald
+Rarity: Uncommon
+Mana Cost: {1}{G}
+Type: Legendary Creature — Elf Druid
+Power/Toughness: 1/1
+Abilities:
+{T}: Add {G}.
+{4}{G}, {T}: Put a +1/+1 counter on each creature you control.
+
+Name: Thalios, Keeper of Secrets
+Rarity: Rare
+Mana Cost: {1}{U}{U}
+Type: Legendary Creature — Human Wizard
+Power/Toughness: 1/3
+Abilities:
+Whenever you draw a card, put a +1/+1 counter on Thalios, Keeper of Secrets.
+{2}{U}, {T}: Draw a card.
+
+Name: Xendra, the Embermind
+Rarity: Rare
+Mana Cost: {3}{R}
+Type: Legendary Creature — Human Shaman
+Power/Toughness: 2/2
+Abilities:
+Haste
+{R}, {T}: Xendra, the Embermind deals 1 damage to target creature or planeswalker.
+Whenever you cast an instant or sorcery spell, Xendra gets +1/+0 until end of turn.
+
+Name: Zethos, the Unseen
+Rarity: Mythic Rare
+Mana Cost: {2}{B}{B}
+Type: Legendary Creature — Human Rogue
+Power/Toughness: 3/3
+Abilities:
+Deathtouch
+Whenever Zethos, the Unseen deals combat damage to a player, you may exile target creature that player controls.
+
+Name: Oris, the Lightbringer
+Rarity: Uncommon
+Mana Cost: {1}{W}
+Type: Legendary Creature — Human Cleric
+Power/Toughness: 1/2
+Abilities:
+Whenever you gain life, put a +1/+1 counter on Oris, the Lightbringer.
+{2}{W}, {T}: You gain 2 life.
+
+Name: Morlan, the Stormcaller
+Rarity: Rare
+Mana Cost: {4}{U}
+Type: Legendary Creature — Merfolk Wizard
+Power/Toughness: 3/4
+Abilities:
+Whenever you cast an instant or sorcery spell, tap or untap target permanent.
+
+Name: Vraska, Heart of the Wild
+Rarity: Mythic Rare
+Mana Cost: {3}{G}{G}
+Type: Legendary Creature — Elf Druid
+Power/Toughness: 3/3
+Abilities:
+Hexproof
+{1}{G}, {T}: Add {G} for each creature you control.
+
+Name: Drakus, the Firelord
+Rarity: Rare
+Mana Cost: {4}{R}{R}
+Type: Legendary Creature — Dragon
+Power/Toughness: 5/5
+Abilities:
+Flying
+Whenever Drakus, the Firelord attacks, it deals 2 damage to each opponent.
+
+Name: Keldra, the Mindstealer
+Rarity: Rare
+Mana Cost: {2}{B}{B}
+Type: Legendary Creature — Human Warlock
+Power/Toughness: 2/3
+Abilities:
+Whenever Keldra, the Mindstealer deals combat damage to a player, that player discards a card and you draw a card.
+
+Name: Sylvaria, the Light's Chosen
+Rarity: Mythic Rare
+Mana Cost: {2}{W}{W}
+Type: Legendary Creature — Angel
+Power/Toughness: 4/4
+Abilities:
+Flying, Vigilance
+Whenever Sylvaria, the Light's Chosen attacks, you may exile target creature with power less than or equal to Sylvaria's power.
+
+Name: Loxil, the Tidal Mage
+Rarity: Rare
+Mana Cost: {3}{U}
+Type: Legendary Creature — Merfolk Wizard
+Power/Toughness: 2/4
+Abilities:
+{1}{U}, {T}: Return target creature to its owner's hand.
+
+Name: Gorrun, the Earthshaker
+Rarity: Mythic Rare
+Mana Cost: {5}{G}{G}
+Type: Legendary Creature — Giant Warrior
+Power/Toughness: 7/7
+Abilities:
+Trample
+Whenever Gorrun, the Earthshaker attacks, destroy target land.
+
+Name: Terax, the Ancient
+Rarity: Rare
+Mana Cost: {3}{G}{G}
+Type: Legendary Creature — Elemental
+Power/Toughness: 5/5
+Abilities:
+Reach
+Whenever Terax, the Ancient enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+
+Name: Lysandra, the Unyielding
+Rarity: Mythic Rare
+Mana Cost: {2}{W}{W}
+Type: Legendary Creature — Human Knight
+Power/Toughness: 3/3
+Abilities:
+First strike, lifelink
+Whenever a creature you control with first strike deals combat damage, put a +1/+1 counter on it.
+
+Name: Novalis, the Stormcaller
+Rarity: Rare
+Mana Cost: {1}{U}{U}
+Type: Legendary Creature — Human Wizard
+Power/Toughness: 1/3
+Abilities:
+Whenever you cast an instant or sorcery spell, scry 1.
+{3}{U}, {T}: Draw a card.
+
+Name: Draxus, the Bloodthirsty
+Rarity: Rare
+Mana Cost: {3}{B}{B}
+Type: Legendary Creature — Vampire Warrior
+Power/Toughness: 4/4
+Abilities:
+Flying
+Whenever Draxus, the Bloodthirsty deals combat damage to a player, put a +1/+1 counter on it.
+
+Name: Kalderan, the Flameborn
+Rarity: Mythic Rare
+Mana Cost: {4}{R}{R}
+Type: Legendary Creature — Dragon
+Power/Toughness: 6/6
+Abilities:
+Flying, haste
+Whenever Kalderan, the Flameborn deals combat damage to a player, it deals that much damage to target creature that player controls.
+
+Name: Tarsus, the Eternal
+Rarity: Rare
+Mana Cost: {2}{W}{W}
+Type: Legendary Creature — Spirit
+Power/Toughness: 2/4
+Abilities:
+Flying
+Whenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.
+
+Name: Zevron, the Cunning
+Rarity: Mythic Rare
+Mana Cost: {1}{U}{B}
+Type: Legendary Creature — Human Rogue
+Power/Toughness: 2/1
+Abilities:
+Flash
+When Zevron, the Cunning enters the battlefield, each opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+
+Name: Ralani, the Earthspeaker
+Rarity: Rare
+Mana Cost: {3}{G}
+Type: Legendary Creature — Elf Druid
+Power/Toughness: 2/3
+Abilities:
+{T}: Add {G} for each creature you control.
+{5}{G}, {T}: Create a 3/3 green Beast creature token.
+
+Name: Zilar, Radiant Reclaimer
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Angel
+Mana Cost: {2}{W}{U}
+Card Text: Flying, vigilance
+Whenever Zilar, Radiant Reclaimer deals combat damage to a player, you may return target enchantment card from your graveyard to your hand.
+Power/Toughness: 4/4
+
+Name: Elthran, Mind Siphon
+Rarity: Rare
+Card Type: Legendary Creature — Human Wizard
+Mana Cost: {2}{U}{B}
+Card Text: {T}, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. You gain life equal to its toughness.
+Power/Toughness: 2/4
+
+Name: Garthor, Scourge of the Fallen
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Demon
+Mana Cost: {4}{B}{R}
+Card Text: Flying, trample
+Whenever Garthor, Scourge of the Fallen deals combat damage to a player, that player sacrifices a permanent for each 3 damage dealt.
+Power/Toughness: 6/6
+
+Name: Vallus, Warden of the Grove
+Rarity: Rare
+Card Type: Legendary Creature — Elf Druid
+Mana Cost: {1}{G}{W}
+Card Text: Hexproof, vigilance
+Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+Power/Toughness: 2/3
+
+Name: Rithan, Dusk Whisperer
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Vampire Rogue
+Mana Cost: {2}{U}{B}
+Card Text: Flying
+Whenever Rithan, Dusk Whisperer deals combat damage to a player, exile the top two cards of that player's library. You may cast those cards for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast them.
+Power/Toughness: 3/3
+
+Name: Korzan, Blazeheart
+Rarity: Rare
+Card Type: Legendary Creature — Dragon
+Mana Cost: {2}{R}{G}
+Card Text: Flying, haste
+Whenever Korzan, Blazeheart attacks, it deals 2 damage to any target.
+Power/Toughness: 4/4
+
+Name: Elysia, Spirit Binder
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Human Cleric
+Mana Cost: {3}{W}{B}
+Card Text: Lifelink
+Whenever you cast an enchantment spell, you may exile target creature card from a graveyard. If you do, create a token that's a copy of that card, except it's a Spirit in addition to its other types.
+Power/Toughness: 3/4
+
+Name: Thallax, Deep Tide
+Rarity: Rare
+Card Type: Legendary Creature — Merfolk Wizard
+Mana Cost: {1}{U}{G}
+Card Text: Whenever you cast an enchantment spell, you may have Thallax, Deep Tide become a copy of target creature on the battlefield, except it has this ability.
+Power/Toughness: 2/2
+
+Name: Drakthar, Bloodrage
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Minotaur Warrior
+Mana Cost: {3}{B}{R}
+Card Text: Menace
+Whenever Drakthar, Bloodrage attacks, each opponent sacrifices a creature. If they can't, you draw a card and Drakthar, Bloodrage gets +2/+0 until end of turn
+Power/Toughness: 4/4
+
+Name: Sylvara, Nature's Aegis
+Rarity: Rare
+Card Type: Legendary Creature — Elemental
+Mana Cost: {2}{G}{W}
+Card Text: Reach
+Whenever you cast an enchantment spell, put a +1/+1 counter on Sylvara, Nature's Aegis. If that spell targets Sylvara, put two +1/+1 counters on it instead.
+Power/Toughness: 3/4
+
+Name: Zanthis, Storm's Herald
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Djinn
+Mana Cost: {2}{U}{R}
+Card Text: Flying
+Whenever you cast an instant or sorcery spell, Zanthis, Storm's Herald deals 1 damage to any target. If that spell has a mana value of 5 or greater, it deals 3 damage instead.
+Power/Toughness: 3/4
+
+Name: Voren, Soul Channeler
+Rarity: Rare
+Card Type: Legendary Creature — Human Warlock
+Mana Cost: {1}{W}{B}
+Card Text: Lifelink
+Whenever you cast an enchantment spell, you may pay {1}. If you do, each opponent loses 1 life and you gain 1 life.
+Power/Toughness: 2/3
+
+Name: Alera, Shimmerwing
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Faerie
+Mana Cost: {3}{G}{U}
+Card Text: Flying
+Whenever you cast an enchantment spell, you may have target creature get -X/-0 until end of turn, where X is that spell's mana value.
+Power/Toughness: 3/3
+
+Name: Kaarthus, Inferno Tyrant
+Rarity: Rare
+Card Type: Legendary Creature — Dragon
+Mana Cost: {4}{R}{W}
+Card Text: Flying, haste
+Whenever Kaarthus, Inferno Tyrant attacks, you may destroy target artifact or enchantment defending player controls.
+Power/Toughness: 5/5
+
+Name: Enara, Shadow Weaver
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Elf Rogue
+Mana Cost: {2}{B}{G}
+Card Text: Deathtouch
+Whenever Enara, Shadow Weaver deals combat damage to a player, you may put an enchantment card from your hand onto the battlefield.
+Power/Toughness: 3/3
+
+Name: Raxos, Void Strider
+Rarity: Rare
+Card Type: Legendary Creature — Demon
+Mana Cost: {3}{B}{R}
+Card Text: Menace
+Whenever you cast an enchantment spell, Raxos, Void Strider gets +2/+0 and gains trample until end of turn.
+Power/Toughness: 4/3
+
+Name: Tarius, Duskbringer
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Sphinx
+Mana Cost: {2}{W}{U}
+Card Text: Flying
+Whenever you cast an enchantment spell, you may scry 1. If that spell targets a creature you control, scry 2 instead.
+Power/Toughness: 4/4
+
+Name: Mirath, Blight of the Wastes
+Rarity: Rare
+Card Type: Legendary Creature — Zombie Knight
+Mana Cost: {1}{B}{W}
+Card Text: Vigilance, lifelink
+Whenever you cast an enchantment spell, target opponent loses 1 life and you gain 1 life.
+Power/Toughness: 2/2
+
+Name: Ysara, Stormchaser
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Elemental
+Mana Cost: {2}{R}{G}
+Card Text: Haste
+Whenever you cast an enchantment spell, Ysara, Stormchaser gets +X/+0 until end of turn, where X is that spell's mana value.
+Power/Toughness: 3/3
+
+Name: Lysandre, the Light's Grace
+Rarity: Rare
+Card Type: Legendary Creature — Angel
+Mana Cost: {3}{U}{W}
+Card Text: Flying
+Whenever you cast an enchantment spell, target creature you control gains hexproof until end of turn.
+Power/Toughness: 4/4
+
+Name: Jaran, Warden of the Ruins
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Human Soldier
+Mana Cost: {1}{W}{U}{B}
+Card Text: When Jaran, Warden of the Ruins enters the battlefield, exile up to one target enchantment card from a graveyard. You gain life equal to its mana value.
+Whenever you cast an enchantment spell, target creature you control gains indestructible until end of turn.
+Power/Toughness: 3/4
+
+Name: Vyx, the Sundering Storm
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Dragon
+Mana Cost: {2}{B}{R}{G}
+Card Text: Flying
+Whenever you cast an enchantment spell, Vyx, the Sundering Storm deals 2 damage to each opponent.
+Power/Toughness: 5/5
+
+Name: Rhiona, the Worldseer
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Elf Shaman
+Mana Cost: {2}{R}{W}{G}
+Card Text: Whenever you cast an enchantment spell, Rhiona, the Worldseer deals 1 damage to any target and you gain 1 life.
+Power/Toughness: 4/4
+
+Name: Azara, Twilight's Call
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Angel
+Mana Cost: {2}{U}{B}{R}
+Card Text: Flying
+Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+Power/Toughness: 3/3
+
+Name: Sylas, Emissary of Hope
+Rarity: Mythic Rare
+Card Type: Legendary Creature — Elemental
+Mana Cost: {2}{G}{W}{U}
+Card Text: Whenever you cast an enchantment spell, you may return target enchantment card from your graveyard to your hand.
+Power/Toughness: 3/5
