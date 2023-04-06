@@ -1,1 +1,682 @@
-# TODO
+Name: Reclaimed Sanctuary
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {G}{W}
+Card Text: At the beginning of your upkeep, you gain 1 life for each enchantment you control.
+
+Name: Blightspreader Imp
+Rarity: Common
+Card Type: Creature — Imp
+Mana Cost: {1}{B}{R}
+Card Text: Flying, {T}: Target creature gets -1/-1 until end of turn.
+Power/Toughness: 1/2
+
+Name: Skyfire Archon
+Rarity: Rare
+Card Type: Creature — Archon
+Mana Cost: {2}{W}{U}
+Card Text: Flying, Whenever Skyfire Archon attacks, you may return target nonland permanent to its owner's hand.
+Power/Toughness: 3/4
+
+Name: Frenzied Ambusher
+Rarity: Common
+Card Type: Creature — Human Rogue
+Mana Cost: {1}{U}{R}
+Card Text: Prowess, Whenever you cast a noncreature spell, Frenzied Ambusher gains haste until end of turn.
+Power/Toughness: 2/2
+
+Name: Bloodbond Ritualist
+Rarity: Uncommon
+Card Type: Creature — Vampire Cleric
+Mana Cost: {3}{W}{B}
+Card Text: Lifelink, When Bloodbond Ritualist enters the battlefield, you may destroy target enchantment.
+Power/Toughness: 3/3
+
+Name: Blossoming Warden
+Rarity: Common
+Card Type: Creature — Elf Druid
+Mana Cost: {G}{U}
+Card Text: {T}: Add one mana of any color to your mana pool.
+Power/Toughness: 1/1
+
+Name: Eerie Interference
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {1}{U}{B}
+Card Text: Counter target spell. If a creature spell is countered this way, create a 2/2 black Zombie creature token.
+
+Name: Violent Outburst
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {1}{R}{G}
+Card Text: Violent Outburst deals 3 damage to target creature. You may have that creature's controller create a 1/1 green Saproling creature token.
+
+Name: Sundered Skycaller
+Rarity: Rare
+Card Type: Creature — Bird Shaman
+Mana Cost: {1}{W}{B}
+Card Text: Flying, When Sundered Skycaller enters the battlefield, target opponent sacrifices an enchantment.
+Power/Toughness: 2/3
+
+Name: Primal Fusion
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{G}{R}
+Card Text: Choose one —
+• Target creature gets +4/+4 until end of turn.
+• Two target creatures each get +2/+2 until end of turn.
+
+Name: Shimmering Mirage
+Rarity: Common
+Card Type: Enchantment — Aura
+Mana Cost: {1}{U}{W}
+Card Text: Enchant creature, Enchanted creature gets +1/+1 and has flying.
+
+Name: Dreadmire Shaman
+Rarity: Uncommon
+Card Type: Creature — Elf Shaman
+Mana Cost: {2}{B}{G}
+Card Text: Deathtouch, When Dreadmire Shaman enters the battlefield, each opponent loses 1 life and you gain 1 life.
+Power/Toughness: 2/2
+
+Name: Smoldering Defiance
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {1}{R}{W}
+Card Text: Whenever you cast a red spell, target creature can't block this turn. Whenever you cast a white spell, target creature gains indestructible until end of turn.
+
+Name: Adaptive Channeler
+Rarity: Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {3}{G}{U}
+Card Text: {T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast instant or sorcery spells.
+Power/Toughness: 2/4
+
+Name: Maelstrom Fusion
+Rarity: Common
+Card Type: Instant
+Mana Cost: {2}{U}{R}
+Card Text: Maelstrom Fusion deals 2 damage to target creature. Draw a card.
+
+Name: Soulshatter Spy
+Rarity: Common
+Card Type: Creature — Human Rogue
+Mana Cost: {1}{B}{W}
+Card Text: Deathtouch, lifelink
+Power/Toughness: 1/2
+
+Name: Elemental Flare
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {X}{R}{G}
+Card Text: Elemental Flare deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead and create an X/X red and green Elemental creature token.
+
+Name: Vengeful Revenant
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {2}{W}{B}
+Card Text: Flying, Whenever Vengeful Revenant deals combat damage to a player, you may return target enchantment card from your graveyard to your hand.
+Power/Toughness: 3/3
+
+Name: Renewal Geomancer
+Rarity: Common
+Card Type: Creature — Human Druid
+Mana Cost: {1}{G}{W}
+Card Text: {T}: Add one mana of any color to your mana pool.
+Power/Toughness: 1/3
+
+Name: Mind Warp Trickster
+Rarity: Uncommon
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}{B}
+Card Text: Flash, When Mind Warp Trickster enters the battlefield, return target nonland permanent to its owner's hand if its converted mana cost is less than or equal to the number of cards in your hand.
+Power/Toughness: 2/2
+
+Name: Stormguard Sentinel
+Rarity: Uncommon
+Card Type: Creature — Giant Soldier
+Mana Cost: {2}{W}{U}
+Card Text: Flying, Vigilance
+Power/Toughness: 3/4
+
+Name: Glacial Forcemage
+Rarity: Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}{R}
+Card Text: {U}{R}, {T}: Glacial Forcemage deals 2 damage to any target and taps that target. That target doesn't untap during its controller's next untap step.
+Power/Toughness: 2/2
+
+Name: Catacomb Stalker
+Rarity: Common
+Card Type: Creature — Vampire Rogue
+Mana Cost: {1}{B}{G}
+Card Text: Menace, Whenever Catacomb Stalker deals combat damage to a player, put a +1/+1 counter on it.
+Power/Toughness: 2/2
+
+Name: Banishing Blaze
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {3}{R}{W}
+Card Text: Banishing Blaze deals 4 damage to target creature or planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.
+
+Name: Sylvan Wisdom
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {2}{G}{U}
+Card Text: Whenever you cast an instant or sorcery spell, if it targets a creature you control, draw a card.
+
+Name: Reckless Onslaught
+Rarity: Common
+Card Type: Sorcery
+Mana Cost: {2}{R}{G}
+Card Text: Up to two target creatures each get +3/+0 and gain trample until end of turn.
+
+Name: Blightwalker Cultist
+Rarity: Uncommon
+Card Type: Creature — Zombie Cleric
+Mana Cost: {1}{W}{B}
+Card Text: Whenever Blightwalker Cultist or another creature dies, gain 1 life.
+Power/Toughness: 2/2
+
+Name: Frostburn Invoker
+Rarity: Common
+Card Type: Creature — Merfolk Wizard
+Mana Cost: {3}{U}{R}
+Card Text: {U}{R}: Target creature gains +1/-1 until end of turn.
+Power/Toughness: 3/3
+
+Name: Sunlit Protector
+Rarity: Common
+Card Type: Creature — Human Soldier
+Mana Cost: {1}{G}{W}
+Card Text: Reach, When Sunlit Protector enters the battlefield, target creature you control gains hexproof until end of turn.
+Power/Toughness: 2/2
+
+Name: Shadowbind Agent
+Rarity: Uncommon
+Card Type: Creature — Human Rogue
+Mana Cost: {1}{U}{B}
+Card Text: Flash, When Shadowbind Agent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+Power/Toughness: 2/1
+
+Name: Caustic Concoction
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {1}{B}{R}
+Card Text: Caustic Concoction deals 3 damage to target creature. If a creature dealt damage this way would die this turn, exile it instead.
+
+Name: Lush Retreat
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {1}{G}{W}
+Card Text: Whenever a land enters the battlefield under your control, you gain 1 life and create a 1/1 green Saproling creature token.
+
+Name: Soulfire Siphoner
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{U}{B}
+Card Text: {T}, Pay 1 life: Draw a card, then discard a card.
+Power/Toughness: 1/3
+
+Name: Feral Ambush
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {2}{R}{G}
+Card Text: Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control.
+
+Name: Ethereal Sentinel
+Rarity: Common
+Card Type: Creature — Spirit Soldier
+Mana Cost: {1}{W}{U}
+Card Text: Flying, Vigilance
+Power/Toughness: 1/3
+
+Name: Deathspore Mycologist
+Rarity: Rare
+Card Type: Creature — Fungus Shaman
+Mana Cost: {2}{B}{G}
+Card Text: {B}{G}, {T}, Sacrifice a creature: Put a -1/-1 counter on up to one target creature and you gain life equal to the sacrificed creature's toughness.
+Power/Toughness: 2/2
+
+Name: Lightning Tempest
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {2}{R}{W}
+Card Text: Whenever a creature enters the battlefield under your control, Lightning Tempest deals 1 damage to any target.
+
+Name: Crystalline Channeler
+Rarity: Uncommon
+Card Type: Creature — Vedalken Wizard
+Mana Cost: {3}{G}{U}
+Card Text: {G}{U}, {T}: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Power/Toughness: 2/4
+
+Name: Bloodsworn Revenant
+Rarity: Common
+Card Type: Creature — Vampire Warrior
+Mana Cost: {3}{B}{R}
+Card Text: Haste, Whenever Bloodsworn Revenant attacks, it gets +1/+0 until end of turn for each creature card in your graveyard.
+Power/Toughness: 3/2
+
+Name: Tranquil Sanctuary
+Rarity: Uncommon
+Card Type: Enchantment
+Mana Cost: {2}{W}{G}
+Card Text: Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.
+
+Name: Eldritch Confluence
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {3}{U}{B}
+Card Text: Choose one or both — 
+- Return target creature card from your graveyard to the battlefield.
+- Counter target spell.
+
+Name: Divergent Flames
+Rarity: Uncommon
+Card Type: Instant
+Mana Cost: {1}{R}{U}
+Card Text: Choose one —
+- Divergent Flames deals 3 damage to target creature or planeswalker.
+- Counter target noncreature spell.
+
+Name: Lifebond Guardian
+Rarity: Common
+Card Type: Creature — Elemental
+Mana Cost: {1}{G}{W}
+Card Text: Lifelink, Whenever you gain life, put a +1/+1 counter on Lifebond Guardian.
+Power/Toughness: 1/1
+
+Name: Gloomdrifter
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {2}{U}{B}
+Card Text: Flying, Whenever Gloomdrifter deals combat damage to a player, that player discards a card.
+Power/Toughness: 2/2
+
+Name: Thornscape Adept
+Rarity: Common
+Card Type: Creature — Elf Druid
+Mana Cost: {1}{R}{G}
+Card Text: {T}: Add one mana of any color. If that mana is spent on a creature spell, it gains haste until end of turn.
+Power/Toughness: 1/1
+
+Name: Nimbus Warden
+Rarity: Rare
+Card Type: Creature — Elemental Knight
+Mana Cost: {2}{W}{U}
+Card Text: Flying, First strike, Whenever you cast a noncreature spell, Nimbus Warden gets +1/+1 until end of turn.
+Power/Toughness: 2/3
+
+Name: Abyssal Lurker
+Rarity: Common
+Card Type: Creature — Horror
+Mana Cost: {3}{B}{G}
+Card Text: Deathtouch, Whenever Abyssal Lurker deals combat damage to a player, you may put the top two cards of your library into your graveyard.
+Power/Toughness: 3/3
+
+Name: Stormwielder
+Rarity: Uncommon
+Card Type: Creature — Human Shaman
+Mana Cost: {1}{R}{W}
+Card Text: Haste, {R}{W}, {T}: Stormwielder deals 2 damage to any target.
+Power/Toughness: 2/1
+
+Name: Verdant Prowler
+Rarity: Common
+Card Type: Creature — Cat Scout
+Mana Cost: {3}{G}{U}
+Card Text: Hexproof, Whenever Verdant Prowler attacks, you may scry 1.
+Power/Toughness: 3/3
+
+Name: Blighted Sycophant
+Rarity: Rare
+Card Type: Creature — Zombie Cleric
+Mana Cost: {2}{W}{B}
+Card Text: Lifelink, Whenever another creature dies, put a +1/+1 counter on Blighted Sycophant.
+Power/Toughness: 2/2
+
+Name: Emberveil Duelist
+Rarity: Uncommon
+Card Type: Creature — Elemental Warrior
+Mana Cost: {1}{R}{W}
+Card Text: Double strike, Whenever you cast a noncreature spell, Emberveil Duelist gets +1/+1 until end of turn.
+Power/Toughness: 1/2
+
+Name: Primal Geomancer
+Rarity: Rare
+Card Type: Creature — Elemental Shaman
+Mana Cost: {2}{G}{U}
+Card Text: {G}{U}: Target land you control becomes a 3/3 Elemental creature with trample until end of turn. It's still a land.
+Power/Toughness: 2/2
+
+Name: Shadowthorn Assassin
+Rarity: Uncommon
+Card Type: Creature — Elf Rogue
+Mana Cost: {1}{B}{G}
+Card Text: Deathtouch, Whenever Shadowthorn Assassin deals combat damage to a player, you may destroy target creature that player controls.
+Power/Toughness: 1/1
+
+Name: Corrupted Emissary
+Rarity: Common
+Card Type: Creature — Human Cleric
+Mana Cost: {3}{W}{B}
+Card Text: Lifelink, Whenever Corrupted Emissary attacks, target opponent loses 1 life and you gain 1 life.
+Power/Toughness: 2/4
+
+Name: Stormwake Herald
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {1}{U}{R}
+Card Text: Flying, Whenever you cast an instant or sorcery spell, Stormwake Herald gets +2/+0 until end of turn.
+Power/Toughness: 1/3
+
+Name: Cinderwood Wanderer
+Rarity: Common
+Card Type: Creature — Elemental
+Mana Cost: {2}{R}{G}
+Card Text: Trample, Whenever Cinderwood Wanderer deals combat damage to a player, add {R}{G} to your mana pool.
+Power/Toughness: 3/2
+
+Name: Gryffwatch Sentry
+Rarity: Uncommon
+Card Type: Creature — Bird Soldier
+Mana Cost: {2}{W}{U}
+Card Text: Flying, Vigilance, Whenever Gryffwatch Sentry blocks a creature, tap that creature and it doesn't untap during its controller's next untap step.
+Power/Toughness: 2/3
+
+Name: Baneforge Mystic
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{B}{R}
+Card Text: {T}: Add {B} or {R}. If that mana is spent to cast an instant or sorcery spell, it deals 1 damage to any target.
+Power/Toughness: 1/2
+
+Name: Fathomcrawler
+Rarity: Rare
+Card Type: Creature — Insect
+Mana Cost: {3}{G}{U}
+Card Text: Hexproof, Whenever Fathomcrawler deals combat damage to a player, you may draw a card.
+Power/Toughness: 3/3
+
+Name: Sunlit Champion
+Rarity: Common
+Card Type: Creature — Human Warrior
+Mana Cost: {2}{G}{W}
+Card Text: Vigilance, Whenever Sunlit Champion attacks, put a +1/+1 counter on another target attacking creature.
+Power/Toughness: 3/3
+
+Name: Vengeful Revenant
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {1}{W}{B}
+Card Text: Flying, Whenever Vengeful Revenant deals combat damage to a player, you may return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+Power/Toughness: 2/1
+
+Name: Skyfire Drake
+Rarity: Rare
+Card Type: Creature — Dragon
+Mana Cost: {2}{U}{R}
+Card Text: Flying, Whenever you cast a noncreature spell, Skyfire Drake gets +1/+0 until end of turn.
+Power/Toughness: 3/3
+
+Name: Blightwood Hydra
+Rarity: Uncommon
+Card Type: Creature — Hydra
+Mana Cost: {X}{B}{G}
+Card Text: Blightwood Hydra enters the battlefield with X +1/+1 counters on it. Whenever a creature dies, put a +1/+1 counter on Blightwood Hydra.
+Power/Toughness: 0/0
+
+Name: Lifeweaver Acolyte
+Rarity: Common
+Card Type: Creature — Elf Cleric
+Mana Cost: {1}{G}{W}
+Card Text: Whenever Lifeweaver Acolyte attacks or blocks, you gain 1 life.
+Power/Toughness: 2/2
+
+Name: Tideshaper Illusionist
+Rarity: Rare
+Card Type: Creature — Merfolk Wizard
+Mana Cost: {2}{U}{B}
+Card Text: Whenever you cast an instant or sorcery spell, target creature an opponent controls gets -2/-0 until end of turn.
+Power/Toughness: 2/3
+
+Name: Lightning-Surge Elemental
+Rarity: Common
+Card Type: Creature — Elemental
+Mana Cost: {3}{R}{W}
+Card Text: Haste, Whenever Lightning-Surge Elemental attacks, it deals 1 damage to target creature or player.
+Power/Toughness: 3/2
+
+Name: Stormcaller Shaman
+Rarity: Uncommon
+Card Type: Creature — Human Shaman
+Mana Cost: {1}{G}{U}
+Card Text: {G}{U}, {T}: Target creature gains hexproof until end of turn.
+Power/Toughness: 2/2
+
+Name: Duskcloak Stalker
+Rarity: Common
+Card Type: Creature — Vampire Rogue
+Mana Cost: {2}{B}{R}
+Card Text: Menace, Whenever Duskcloak Stalker deals combat damage to a player, that player discards a card.
+Power/Toughness: 2/2
+
+Name: Aetherwisp Elemental
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {3}{W}{U}
+Card Text: Flying, Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying.
+Power/Toughness: 3/4
+
+Name: Lava-Flow Channeler
+Rarity: Common
+Card Type: Creature — Elemental Shaman
+Mana Cost: {1}{R}{G}
+Card Text: {T}: Add {R} or {G}. If that mana is spent to cast a creature spell, that creature enters the battlefield with a +1/+1 counter on it.
+Power/Toughness: 1/1
+
+Name: Groveborn Warden
+Rarity: Uncommon
+Card Type: Creature — Treefolk Druid
+Mana Cost: {1}{G}{W}
+Card Text: Vigilance, {T}: Add one mana of any color. If you control a Forest and a Plains, add two mana of any one color instead.
+Power/Toughness: 2/3
+
+Name: Riptide Explorer
+Rarity: Common
+Card Type: Creature — Merfolk Scout
+Mana Cost: {1}{U}{G}
+Card Text: When Riptide Explorer enters the battlefield, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Power/Toughness: 1/3
+
+Name: Ashenclaw Phoenix
+Rarity: Mythic Rare
+Card Type: Creature — Phoenix
+Mana Cost: {2}{R}{W}
+Card Text: Flying, haste, When Ashenclaw Phoenix dies, return it to the battlefield at the beginning of the next end step.
+Power/Toughness: 3/3
+
+Name: Sanguine Infiltrator
+Rarity: Rare
+Card Type: Creature — Vampire Assassin
+Mana Cost: {2}{B}{U}
+Card Text: Deathtouch, Whenever Sanguine Infiltrator deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. That player discards that card.
+Power/Toughness: 2/3
+
+Name: Frenzied Flamespinner
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {2}{R}{G}
+Card Text: Trample, Whenever Frenzied Flamespinner attacks, you may have it deal 1 damage to each creature your opponents control. If you do, Frenzied Flamespinner gets -1/-0 until end of turn.
+Power/Toughness: 4/3
+
+Name: Shadowtide Sentinel
+Rarity: Common
+Card Type: Creature — Spirit
+Mana Cost: {1}{W}{B}
+Card Text: Flying, Lifelink
+Power/Toughness: 2/2
+
+Name: Stormspire Artificer
+Rarity: Rare
+Card Type: Creature — Human Artificer
+Mana Cost: {3}{U}{R}
+Card Text: Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying. Artifacts you control have haste.
+Power/Toughness: 2/4
+
+Name: Plague-Touched Mycoloth
+Rarity: Uncommon
+Card Type: Creature — Fungus
+Mana Cost: {2}{B}{G}
+Card Text: At the beginning of your upkeep, create a 1/1 green Saproling creature token. Sacrifice a creature: Put a +1/+1 counter on Plague-Touched Mycoloth.
+Power/Toughness: 3/3
+
+Name: Reclusive Mistweaver
+Rarity: Common
+Card Type: Creature — Human Wizard
+Mana Cost: {2}{G}{U}
+Card Text: When Reclusive Mistweaver enters the battlefield, target creature gets +2/+2 until end of turn. If you control a Forest and an Island, that creature also gains hexproof until end of turn.
+Power/Toughness: 2/3
+
+Name: Skyshard Elemental
+Rarity: Rare
+Card Type: Creature — Elemental
+Mana Cost: {2}{W}{U}
+Card Text: Flying, Whenever Skyshard Elemental attacks, create a 1/1 white and blue Bird creature token with flying tapped and attacking.
+Power/Toughness: 3/3
+
+Name: Rotwood Thallid
+Rarity: Uncommon
+Card Type: Creature — Fungus
+Mana Cost: {1}{B}{G}
+Card Text: At the beginning of your upkeep, create a 1/1 green Saproling creature token. Sacrifice a Saproling: Rotwood Thallid gets +2/+2 until end of turn.
+Power/Toughness: 2/2
+
+Name: Raging Stormcaller
+Rarity: Rare
+Card Type: Creature — Orc Shaman
+Mana Cost: {2}{R}{G}
+Card Text: Haste, Whenever you cast a creature spell, if that spell has an additional cost, you may pay that cost. If you do, that creature enters the battlefield with an additional +1/+1 counter on it.
+Power/Toughness: 4/4
+
+Name: Arcane Warder
+Rarity: Uncommon
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}{R}
+Card Text: Prowess, Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, draw a card, then discard a card.
+Power/Toughness: 2/3
+
+Name: Dawnspire Archon
+Rarity: Rare
+Card Type: Creature — Archon
+Mana Cost: {2}{W}{B}
+Card Text: Flying, lifelink, vigilance
+Power/Toughness: 3/4
+
+Name: Duskcrusher Giant
+Rarity: Uncommon
+Card Type: Creature — Giant
+Mana Cost: {3}{R}{W}
+Card Text: Whenever Duskcrusher Giant attacks, if you attacked with a creature with power 4 or greater this turn, Duskcrusher Giant gains double strike until end of turn.
+Power/Toughness: 4/3
+
+Name: Shadowvein Alchemist
+Rarity: Rare
+Card Type: Creature — Human Wizard
+Mana Cost: {1}{U}{B}
+Card Text: {1}{U}{B}, {T}: Return target creature to its owner's hand. If that creature's converted mana cost was 2 or less, draw a card.
+Power/Toughness: 1/4
+
+Name: Mistveil Conclave
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {3}{G}{W}
+Card Text: At the beginning of your end step, if you control a creature with power 4 or greater, create a 2/2 green and white Elf Knight creature token with vigilance.
+
+Name: Fractured Bonds
+Rarity: Uncommon
+Card Type: Sorcery
+Mana Cost: {1}{B}{R}
+Card Text: Destroy target artifact. Fractured Bonds deals 2 damage to that artifact's controller.
+
+Name: Emberfrost Dragon
+Rarity: Mythic Rare
+Card Type: Creature — Dragon
+Mana Cost: {3}{U}{R}
+Card Text: Flying, {U}{R}: Emberfrost Dragon gets +1/-1 or -1/+1 until end of turn.
+Power/Toughness: 4/4
+
+Name: Timebound Geist
+Rarity: Uncommon
+Card Type: Creature — Spirit
+Mana Cost: {2}{W}{U}
+Card Text: Flying, Whenever Timebound Geist attacks, you may return target instant or sorcery card from your graveyard to your hand.
+Power/Toughness: 2/3
+
+Name: Slumbering Grove
+Rarity: Rare
+Card Type: Enchantment
+Mana Cost: {1}{G}{U}
+Card Text: Whenever you cast a creature spell, if it's the first spell you cast this turn, you may draw a card.
+
+Name: Conflux of Thoughts
+Rarity: Rare
+Card Type: Instant
+Mana Cost: {2}{U}{R}
+Card Text: Draw two cards, then discard a card. If you discarded an instant or sorcery card this way, Conflux of Thoughts deals 2 damage to any target.
+
+Name: Bloodstained Reaver
+Rarity: Uncommon
+Card Type: Creature — Human Pirate
+Mana Cost: {1}{B}{R}
+Card Text: Menace, Whenever Bloodstained Reaver deals combat damage to a player, that player discards a card and you draw a card.
+Power/Toughness: 2/2
+
+Name: Unyielding Phalanx
+Rarity: Uncommon
+Card Type: Creature — Human Soldier
+Mana Cost: {1}{W}{B}
+Card Text: Vigilance, lifelink, Unyielding Phalanx gets +1/+1 for each other creature you control with toughness 4 or greater.
+Power/Toughness: 2/3
+
+Name: Glacial Torrent
+Rarity: Rare
+Card Type: Sorcery
+Mana Cost: {2}{U}{G}
+Card Text: Return up to two target permanents to their owners' hands. If one or both of those permanents are lands, draw a card.
+
+Name: Astral Reclaimer
+Rarity: Mythic Rare
+Card Type: Creature — Spirit
+Mana Cost: {3}{W}{B}
+Card Text: Flying, lifelink, When Astral Reclaimer enters the battlefield, return target nonland permanent card from your graveyard to your hand.
+Power/Toughness: 4/4
+
+Name: Wyrmwood Ravager
+Rarity: Rare
+Card Type: Creature — Wurm
+Mana Cost: {4}{G}{R}
+Card Text: Trample, Whenever Wyrmwood Ravager deals combat damage to a player, put a +1/+1 counter on each creature you control.
+Power/Toughness: 6/6
+
+Name: Torrential Elemental
+Rarity: Uncommon
+Card Type: Creature — Elemental
+Mana Cost: {3}{U}{G}
+Card Text: Whenever you cast an instant or sorcery spell, Torrential Elemental gets +1/+1 until end of turn.
+Power/Toughness: 3/4
+
+Name: Cindermaw Hellion
+Rarity: Rare
+Card Type: Creature — Hellion
+Mana Cost: {4}{R}{G}
+Card Text: Trample, haste, When Cindermaw Hellion enters the battlefield, it deals X damage to any target, where X is the number of lands you control.
+Power/Toughness: 5/5
+
+Name: Shadowed Marauder
+Rarity: Uncommon
+Card Type: Creature — Human Rogue
+Mana Cost: {1}{B}{G}
+Card Text: Deathtouch, Whenever Shadowed Marauder deals combat damage to a player, that player sacrifices a creature or planeswalker.
+Power/Toughness: 2/2
