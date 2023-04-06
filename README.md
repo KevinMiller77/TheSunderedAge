@@ -3,7 +3,7 @@
 The Sundered Age is a fantasy Magic: The Gathering set created by Kevin Miller and ChatGPT.
 The card arts will all be done by DALL-E.
 
-This set contains between ~420 cards 
+This set contains exactly 450 cards 
 
 ** These cards are not balanced in terms of ability **
 
